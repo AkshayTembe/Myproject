@@ -8,7 +8,7 @@ namespace ConsoleApp5
         {
             
             Console.WriteLine("Enter the size of an array");
-            uint[] inparr=new uint[5] {1,2,3,4,5};
+            uint[] inparr=new uint[5] {1,2,3,4,6};
             int num = 5;
             List<List<int>> retlist = calcfun( inparr, num);
             foreach (var i in retlist) {
