@@ -8,11 +8,11 @@ namespace ConsoleApp5
         {
             
             Console.WriteLine("Enter the size of an array");
-            uint[] inparr=new uint[5] {1,2,3,4,6};
+            uint[] inparr=new uint[5] {1,5,8,4,6};
             int num = 5;
             List<List<int>> retlist = calcfun( inparr, num);
             foreach (var i in retlist) {
-                Console.WriteLine($"the first index is {i[0]} and second index is {i[1]}");
+                Console.WriteLine($"The first index is {i[0]} and second index is {i[1]}");
             }
         }
         public static List<List<int>> calcfun(uint[] inparr,int num)
