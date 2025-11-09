@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# NuGet packages and caches
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor backups
+*.log
+*.tmp
