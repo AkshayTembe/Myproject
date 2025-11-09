@@ -1,0 +1,1530 @@
+]: unknown ByteOrder '@0+' for signal 'StW_Angl' in message 3; defaulting to 1 (Intel).
+Warning: Signals[2]: invalid Factor '[0|0]' for 'StW_Angl' in message 3; default 1.0 used.
+Warning: Signals[2]: invalid Offset 'deg' for 'StW_Angl' in message 3; default 0.0 used.
+Warning: Signals[2]: invalid Minimum 'NEO' for 'StW_Angl' in message 3; left empty.
+Warning: Signals[3]: unknown ByteOrder '@0+' for signal 'StW_AnglSpd' in message 3; defaulting to 1 (Intel).
+Warning: Signals[3]: invalid Factor '[0|0]' for 'StW_AnglSpd' in message 3; default 1.0 used.
+Warning: Signals[3]: invalid Offset '/s' for 'StW_AnglSpd' in message 3; default 0.0 used.
+Warning: Signals[3]: invalid Minimum 'NEO' for 'StW_AnglSpd' in message 3; left empty.
+Warning: Signals[4]: unknown ByteOrder '@0+' for signal 'StW_AnglSens_Stat' in message 3; defaulting to 1 (Intel).
+Warning: Signals[4]: invalid Factor '[-1|4]' for 'StW_AnglSens_Stat' in message 3; default 1.0 used.
+Warning: Signals[4]: invalid Minimum 'NEO' for 'StW_AnglSens_Stat' in message 3; left empty.
+Warning: Signals[5]: unknown ByteOrder '@0+' for signal 'StW_AnglSens_Id' in message 3; defaulting to 1 (Intel).
+Warning: Signals[5]: invalid Factor '[3|3]' for 'StW_AnglSens_Id' in message 3; default 1.0 used.
+Warning: Signals[5]: invalid Minimum 'NEO' for 'StW_AnglSens_Id' in message 3; left empty.
+Warning: Signals[6]: unknown ByteOrder '@0+' for signal 'MC_STW_ANGL_STAT' in message 3; defaulting to 1 (Intel).
+Warning: Signals[6]: invalid Factor '[0|15]' for 'MC_STW_ANGL_STAT' in message 3; default 1.0 used.
+Warning: Signals[6]: invalid Minimum 'NEO' for 'MC_STW_ANGL_STAT' in message 3; left empty.
+Warning: Signals[7]: unknown ByteOrder '@0+' for signal 'CRC_STW_ANGL_STAT' in message 3; defaulting to 1 (Intel).
+Warning: Signals[7]: invalid Factor '[0|255]' for 'CRC_STW_ANGL_STAT' in message 3; default 1.0 used.
+Warning: Signals[7]: invalid Minimum 'NEO' for 'CRC_STW_ANGL_STAT' in message 3; left empty.
+Warning: Signals[8]: unknown ByteOrder '@0+' for signal 'StW_AnglHP' in message 14; defaulting to 1 (Intel).
+Warning: Signals[8]: invalid Factor '[-819.2|819]' for 'StW_AnglHP' in message 14; default 1.0 used.
+Warning: Signals[8]: invalid Offset 'deg' for 'StW_AnglHP' in message 14; default 0.0 used.
+Warning: Signals[8]: invalid Minimum 'NEO' for 'StW_AnglHP' in message 14; left empty.
+Warning: Signals[9]: unknown ByteOrder '@0+' for signal 'StW_AnglHP_Spd' in message 14; defaulting to 1 (Intel).
+Warning: Signals[9]: invalid Factor '[-4096|4095.5]' for 'StW_AnglHP_Spd' in message 14; default 1.0 used.
+Warning: Signals[9]: invalid Offset 'deg/s' for 'StW_AnglHP_Spd' in message 14; default 0.0 used.
+Warning: Signals[9]: invalid Minimum 'NEO' for 'StW_AnglHP_Spd' in message 14; left empty.
+Warning: Signals[10]: unknown ByteOrder '@0+' for signal 'StW_AnglHP_Sens_Stat' in message 14; defaulting to 1 (Intel).
+Warning: Signals[10]: invalid Factor '[0|0]' for 'StW_AnglHP_Sens_Stat' in message 14; default 1.0 used.
+Warning: Signals[10]: invalid Minimum 'NEO' for 'StW_AnglHP_Sens_Stat' in message 14; left empty.
+Warning: Signals[11]: unknown ByteOrder '@0+' for signal 'StW_AnglHP_Sens_Id' in message 14; defaulting to 1 (Intel).
+Warning: Signals[11]: invalid Factor '[0|0]' for 'StW_AnglHP_Sens_Id' in message 14; default 1.0 used.
+Warning: Signals[11]: invalid Minimum 'NEO' for 'StW_AnglHP_Sens_Id' in message 14; left empty.
+Warning: Signals[12]: unknown ByteOrder '@0+' for signal 'MC_STW_ANGLHP_STAT' in message 14; defaulting to 1 (Intel).
+Warning: Signals[12]: invalid Factor '[0|15]' for 'MC_STW_ANGLHP_STAT' in message 14; default 1.0 used.
+Warning: Signals[12]: invalid Minimum 'NEO' for 'MC_STW_ANGLHP_STAT' in message 14; left empty.
+Warning: Signals[13]: unknown ByteOrder '@0+' for signal 'CRC_STW_ANGLHP_STAT' in message 14; defaulting to 1 (Intel).
+Warning: Signals[13]: invalid Factor '[0|0]' for 'CRC_STW_ANGLHP_STAT' in message 14; default 1.0 used.
+Warning: Signals[13]: invalid Minimum 'NEO' for 'CRC_STW_ANGLHP_STAT' in message 14; left empty.
+Warning: Signals[14]: unknown ByteOrder '@1+' for signal 'SpdCtrlLvr_Stat' in message 69; defaulting to 1 (Intel).
+Warning: Signals[14]: invalid Factor '[0|0]' for 'SpdCtrlLvr_Stat' in message 69; default 1.0 used.
+Warning: Signals[14]: invalid Minimum 'NEO' for 'SpdCtrlLvr_Stat' in message 69; left empty.
+Warning: Signals[15]: unknown ByteOrder '@1+' for signal 'VSL_Enbl_Rq' in message 69; defaulting to 1 (Intel).
+Warning: Signals[15]: invalid Factor '[0|0]' for 'VSL_Enbl_Rq' in message 69; default 1.0 used.
+Warning: Signals[15]: invalid Minimum 'NEO' for 'VSL_Enbl_Rq' in message 69; left empty.
+Warning: Signals[16]: unknown ByteOrder '@1+' for signal 'SpdCtrlLvrStat_Inv' in message 69; defaulting to 1 (Intel).
+Warning: Signals[16]: invalid Factor '[0|0]' for 'SpdCtrlLvrStat_Inv' in message 69; default 1.0 used.
+Warning: Signals[16]: invalid Minimum 'NEO' for 'SpdCtrlLvrStat_Inv' in message 69; left empty.
+Warning: Signals[17]: unknown ByteOrder '@1+' for signal 'DTR_Dist_Rq' in message 69; defaulting to 1 (Intel).
+Warning: Signals[17]: invalid Factor '[0|200]' for 'DTR_Dist_Rq' in message 69; default 1.0 used.
+Warning: Signals[17]: invalid Minimum 'NEO' for 'DTR_Dist_Rq' in message 69; left empty.
+Warning: Signals[18]: unknown ByteOrder '@1+' for signal 'TurnIndLvr_Stat' in message 69; defaulting to 1 (Intel).
+Warning: Signals[18]: invalid Factor '[0|0]' for 'TurnIndLvr_Stat' in message 69; default 1.0 used.
+Warning: Signals[18]: invalid Minimum 'NEO' for 'TurnIndLvr_Stat' in message 69; left empty.
+Warning: Signals[19]: unknown ByteOrder '@1+' for signal 'HiBmLvr_Stat' in message 69; defaulting to 1 (Intel).
+Warning: Signals[19]: invalid Factor '[0|0]' for 'HiBmLvr_Stat' in message 69; default 1.0 used.
+Warning: Signals[19]: invalid Minimum 'NEO' for 'HiBmLvr_Stat' in message 69; left empty.
+Warning: Signals[20]: unknown ByteOrder '@1+' for signal 'WprWashSw_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[20]: invalid Factor '[0|0]' for 'WprWashSw_Psd' in message 69; default 1.0 used.
+Warning: Signals[20]: invalid Minimum 'NEO' for 'WprWashSw_Psd' in message 69; left empty.
+Warning: Signals[21]: unknown ByteOrder '@1+' for signal 'WprWash_R_Sw_Posn_V2' in message 69; defaulting to 1 (Intel).
+Warning: Signals[21]: invalid Factor '[0|0]' for 'WprWash_R_Sw_Posn_V2' in message 69; default 1.0 used.
+Warning: Signals[21]: invalid Minimum 'NEO' for 'WprWash_R_Sw_Posn_V2' in message 69; left empty.
+Warning: Signals[22]: unknown ByteOrder '@1+' for signal 'StW_Lvr_Stat' in message 69; defaulting to 1 (Intel).
+Warning: Signals[22]: invalid Factor '[0|0]' for 'StW_Lvr_Stat' in message 69; default 1.0 used.
+Warning: Signals[22]: invalid Minimum 'NEO' for 'StW_Lvr_Stat' in message 69; left empty.
+Warning: Signals[23]: unknown ByteOrder '@1+' for signal 'StW_Cond_Flt' in message 69; defaulting to 1 (Intel).
+Warning: Signals[23]: invalid Factor '[0|0]' for 'StW_Cond_Flt' in message 69; default 1.0 used.
+Warning: Signals[23]: invalid Minimum 'NEO' for 'StW_Cond_Flt' in message 69; left empty.
+Warning: Signals[24]: unknown ByteOrder '@1+' for signal 'StW_Cond_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[24]: invalid Factor '[0|0]' for 'StW_Cond_Psd' in message 69; default 1.0 used.
+Warning: Signals[24]: invalid Minimum 'NEO' for 'StW_Cond_Psd' in message 69; left empty.
+Warning: Signals[25]: unknown ByteOrder '@1+' for signal 'HrnSw_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[25]: invalid Factor '[0|0]' for 'HrnSw_Psd' in message 69; default 1.0 used.
+Warning: Signals[25]: invalid Minimum 'NEO' for 'HrnSw_Psd' in message 69; left empty.
+Warning: Signals[26]: unknown ByteOrder '@1+' for signal 'StW_Sw00_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[26]: invalid Factor '[0|0]' for 'StW_Sw00_Psd' in message 69; default 1.0 used.
+Warning: Signals[26]: invalid Minimum 'NEO' for 'StW_Sw00_Psd' in message 69; left empty.
+Warning: Signals[27]: unknown ByteOrder '@1+' for signal 'StW_Sw01_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[27]: invalid Factor '[0|0]' for 'StW_Sw01_Psd' in message 69; default 1.0 used.
+Warning: Signals[27]: invalid Minimum 'NEO' for 'StW_Sw01_Psd' in message 69; left empty.
+Warning: Signals[28]: unknown ByteOrder '@1+' for signal 'StW_Sw02_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[28]: invalid Factor '[0|0]' for 'StW_Sw02_Psd' in message 69; default 1.0 used.
+Warning: Signals[28]: invalid Minimum 'NEO' for 'StW_Sw02_Psd' in message 69; left empty.
+Warning: Signals[29]: unknown ByteOrder '@1+' for signal 'StW_Sw03_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[29]: invalid Factor '[0|0]' for 'StW_Sw03_Psd' in message 69; default 1.0 used.
+Warning: Signals[29]: invalid Minimum 'NEO' for 'StW_Sw03_Psd' in message 69; left empty.
+Warning: Signals[30]: unknown ByteOrder '@1+' for signal 'StW_Sw04_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[30]: invalid Factor '[0|0]' for 'StW_Sw04_Psd' in message 69; default 1.0 used.
+Warning: Signals[30]: invalid Minimum 'NEO' for 'StW_Sw04_Psd' in message 69; left empty.
+Warning: Signals[31]: unknown ByteOrder '@1+' for signal 'StW_Sw05_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[31]: invalid Factor '[0|0]' for 'StW_Sw05_Psd' in message 69; default 1.0 used.
+Warning: Signals[31]: invalid Minimum 'NEO' for 'StW_Sw05_Psd' in message 69; left empty.
+Warning: Signals[32]: unknown ByteOrder '@1+' for signal 'StW_Sw06_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[32]: invalid Factor '[0|0]' for 'StW_Sw06_Psd' in message 69; default 1.0 used.
+Warning: Signals[32]: invalid Minimum 'NEO' for 'StW_Sw06_Psd' in message 69; left empty.
+Warning: Signals[33]: unknown ByteOrder '@1+' for signal 'StW_Sw07_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[33]: invalid Factor '[0|0]' for 'StW_Sw07_Psd' in message 69; default 1.0 used.
+Warning: Signals[33]: invalid Minimum 'NEO' for 'StW_Sw07_Psd' in message 69; left empty.
+Warning: Signals[34]: unknown ByteOrder '@1+' for signal 'StW_Sw08_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[34]: invalid Factor '[0|0]' for 'StW_Sw08_Psd' in message 69; default 1.0 used.
+Warning: Signals[34]: invalid Minimum 'NEO' for 'StW_Sw08_Psd' in message 69; left empty.
+Warning: Signals[35]: unknown ByteOrder '@1+' for signal 'StW_Sw09_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[35]: invalid Factor '[0|0]' for 'StW_Sw09_Psd' in message 69; default 1.0 used.
+Warning: Signals[35]: invalid Minimum 'NEO' for 'StW_Sw09_Psd' in message 69; left empty.
+Warning: Signals[36]: unknown ByteOrder '@1+' for signal 'StW_Sw10_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[36]: invalid Factor '[0|0]' for 'StW_Sw10_Psd' in message 69; default 1.0 used.
+Warning: Signals[36]: invalid Minimum 'NEO' for 'StW_Sw10_Psd' in message 69; left empty.
+Warning: Signals[37]: unknown ByteOrder '@1+' for signal 'StW_Sw11_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[37]: invalid Factor '[0|0]' for 'StW_Sw11_Psd' in message 69; default 1.0 used.
+Warning: Signals[37]: invalid Minimum 'NEO' for 'StW_Sw11_Psd' in message 69; left empty.
+Warning: Signals[38]: unknown ByteOrder '@1+' for signal 'StW_Sw12_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[38]: invalid Factor '[0|0]' for 'StW_Sw12_Psd' in message 69; default 1.0 used.
+Warning: Signals[38]: invalid Minimum 'NEO' for 'StW_Sw12_Psd' in message 69; left empty.
+Warning: Signals[39]: unknown ByteOrder '@1+' for signal 'StW_Sw13_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[39]: invalid Factor '[0|0]' for 'StW_Sw13_Psd' in message 69; default 1.0 used.
+Warning: Signals[39]: invalid Minimum 'NEO' for 'StW_Sw13_Psd' in message 69; left empty.
+Warning: Signals[40]: unknown ByteOrder '@1+' for signal 'StW_Sw14_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[40]: invalid Factor '[0|0]' for 'StW_Sw14_Psd' in message 69; default 1.0 used.
+Warning: Signals[40]: invalid Minimum 'NEO' for 'StW_Sw14_Psd' in message 69; left empty.
+Warning: Signals[41]: unknown ByteOrder '@1+' for signal 'StW_Sw15_Psd' in message 69; defaulting to 1 (Intel).
+Warning: Signals[41]: invalid Factor '[0|0]' for 'StW_Sw15_Psd' in message 69; default 1.0 used.
+Warning: Signals[41]: invalid Minimum 'NEO' for 'StW_Sw15_Psd' in message 69; left empty.
+Warning: Signals[42]: unknown ByteOrder '@1+' for signal 'WprSw6Posn' in message 69; defaulting to 1 (Intel).
+Warning: Signals[42]: invalid Factor '[0|0]' for 'WprSw6Posn' in message 69; default 1.0 used.
+Warning: Signals[42]: invalid Minimum 'NEO' for 'WprSw6Posn' in message 69; left empty.
+Warning: Signals[43]: unknown ByteOrder '@1+' for signal 'MC_STW_ACTN_RQ' in message 69; defaulting to 1 (Intel).
+Warning: Signals[43]: invalid Factor '[0|15]' for 'MC_STW_ACTN_RQ' in message 69; default 1.0 used.
+Warning: Signals[43]: invalid Minimum 'NEO' for 'MC_STW_ACTN_RQ' in message 69; left empty.
+Warning: Signals[44]: unknown ByteOrder '@1+' for signal 'CRC_STW_ACTN_RQ' in message 69; defaulting to 1 (Intel).
+Warning: Signals[44]: invalid Factor '[0|0]' for 'CRC_STW_ACTN_RQ' in message 69; default 1.0 used.
+Warning: Signals[44]: invalid Minimum 'NEO' for 'CRC_STW_ACTN_RQ' in message 69; left empty.
+Warning: Signals[45]: unknown ByteOrder '@1-' for signal 'MCU_elevation' in message 104; defaulting to 1 (Intel).
+Warning: Signals[45]: invalid Factor '[0|0]' for 'MCU_elevation' in message 104; default 1.0 used.
+Warning: Signals[45]: invalid Offset 'm' for 'MCU_elevation' in message 104; default 0.0 used.
+Warning: Signals[45]: invalid Minimum 'GTW' for 'MCU_elevation' in message 104; left empty.
+Warning: Signals[46]: unknown ByteOrder '@1+' for signal 'MCU_navigonExpectedSpeed' in message 104; defaulting to 1 (Intel).
+Warning: Signals[46]: invalid Factor '[0|126]' for 'MCU_navigonExpectedSpeed' in message 104; default 1.0 used.
+Warning: Signals[46]: invalid Offset 'mph' for 'MCU_navigonExpectedSpeed' in message 104; default 0.0 used.
+Warning: Signals[46]: invalid Minimum 'GTW' for 'MCU_navigonExpectedSpeed' in message 104; left empty.
+Warning: Signals[47]: unknown ByteOrder '@1+' for signal 'StW_Sw_Stat3' in message 109; defaulting to 1 (Intel).
+Warning: Signals[47]: invalid Factor '[0|0]' for 'StW_Sw_Stat3' in message 109; default 1.0 used.
+Warning: Signals[47]: invalid Minimum 'NEO' for 'StW_Sw_Stat3' in message 109; left empty.
+Warning: Signals[48]: unknown ByteOrder '@1+' for signal 'MsgTxmtId' in message 109; defaulting to 1 (Intel).
+Warning: Signals[48]: invalid Factor '[0|0]' for 'MsgTxmtId' in message 109; default 1.0 used.
+Warning: Signals[48]: invalid Minimum 'NEO' for 'MsgTxmtId' in message 109; left empty.
+Warning: Signals[49]: unknown ByteOrder '@1+' for signal 'TSL_RND_Posn_StW' in message 109; defaulting to 1 (Intel).
+Warning: Signals[49]: invalid Factor '[0|0]' for 'TSL_RND_Posn_StW' in message 109; default 1.0 used.
+Warning: Signals[49]: invalid Minimum 'NEO' for 'TSL_RND_Posn_StW' in message 109; left empty.
+Warning: Signals[50]: unknown ByteOrder '@1+' for signal 'TSL_P_Psd_StW' in message 109; defaulting to 1 (Intel).
+Warning: Signals[50]: invalid Factor '[0|0]' for 'TSL_P_Psd_StW' in message 109; default 1.0 used.
+Warning: Signals[50]: invalid Minimum 'NEO' for 'TSL_P_Psd_StW' in message 109; left empty.
+Warning: Signals[51]: unknown ByteOrder '@1+' for signal 'MC_SBW_RQ_SCCM' in message 109; defaulting to 1 (Intel).
+Warning: Signals[51]: invalid Factor '[0|15]' for 'MC_SBW_RQ_SCCM' in message 109; default 1.0 used.
+Warning: Signals[51]: invalid Minimum 'NEO' for 'MC_SBW_RQ_SCCM' in message 109; left empty.
+Warning: Signals[52]: unknown ByteOrder '@1+' for signal 'CRC_SBW_RQ_SCCM' in message 109; defaulting to 1 (Intel).
+Warning: Signals[52]: invalid Factor '[0|0]' for 'CRC_SBW_RQ_SCCM' in message 109; default 1.0 used.
+Warning: Signals[52]: invalid Minimum 'NEO' for 'CRC_SBW_RQ_SCCM' in message 109; left empty.
+Warning: Signals[53]: unknown ByteOrder '@0+' for signal 'GTW_epasControlChecksum' in message 257; defaulting to 1 (Intel).
+Warning: Signals[53]: invalid Factor '[0|255]' for 'GTW_epasControlChecksum' in message 257; default 1.0 used.
+Warning: Signals[53]: invalid Minimum 'NEO' for 'GTW_epasControlChecksum' in message 257; left empty.
+Warning: Signals[54]: unknown ByteOrder '@0+' for signal 'GTW_epasControlCounter' in message 257; defaulting to 1 (Intel).
+Warning: Signals[54]: invalid Factor '[0|15]' for 'GTW_epasControlCounter' in message 257; default 1.0 used.
+Warning: Signals[54]: invalid Minimum 'NEO' for 'GTW_epasControlCounter' in message 257; left empty.
+Warning: Signals[55]: unknown ByteOrder '@0+' for signal 'GTW_epasControlType' in message 257; defaulting to 1 (Intel).
+Warning: Signals[55]: invalid Factor '[-1|4]' for 'GTW_epasControlType' in message 257; default 1.0 used.
+Warning: Signals[55]: invalid Minimum 'NEO' for 'GTW_epasControlType' in message 257; left empty.
+Warning: Signals[56]: unknown ByteOrder '@0+' for signal 'GTW_epasEmergencyOn' in message 257; defaulting to 1 (Intel).
+Warning: Signals[56]: invalid Factor '[-1|2]' for 'GTW_epasEmergencyOn' in message 257; default 1.0 used.
+Warning: Signals[56]: invalid Minimum 'NEO' for 'GTW_epasEmergencyOn' in message 257; left empty.
+Warning: Signals[57]: unknown ByteOrder '@0+' for signal 'GTW_epasLDWEnabled' in message 257; defaulting to 1 (Intel).
+Warning: Signals[57]: invalid Factor '[-1|2]' for 'GTW_epasLDWEnabled' in message 257; default 1.0 used.
+Warning: Signals[57]: invalid Minimum 'NEO' for 'GTW_epasLDWEnabled' in message 257; left empty.
+Warning: Signals[58]: unknown ByteOrder '@0+' for signal 'GTW_epasPowerMode' in message 257; defaulting to 1 (Intel).
+Warning: Signals[58]: invalid Factor '[4|14]' for 'GTW_epasPowerMode' in message 257; default 1.0 used.
+Warning: Signals[58]: invalid Minimum 'NEO' for 'GTW_epasPowerMode' in message 257; left empty.
+Warning: Signals[59]: unknown ByteOrder '@0+' for signal 'GTW_epasTuneRequest' in message 257; defaulting to 1 (Intel).
+Warning: Signals[59]: invalid Factor '[-1|8]' for 'GTW_epasTuneRequest' in message 257; default 1.0 used.
+Warning: Signals[59]: invalid Minimum 'NEO' for 'GTW_epasTuneRequest' in message 257; left empty.
+Warning: Signals[60]: unknown ByteOrder '@1-' for signal 'DI_torqueDriver' in message 264; defaulting to 1 (Intel).
+Warning: Signals[60]: invalid Factor '[-750|750]' for 'DI_torqueDriver' in message 264; default 1.0 used.
+Warning: Signals[60]: invalid Offset 'Nm' for 'DI_torqueDriver' in message 264; default 0.0 used.
+Warning: Signals[60]: invalid Minimum 'NEO' for 'DI_torqueDriver' in message 264; left empty.
+Warning: Signals[61]: unknown ByteOrder '@1+' for signal 'DI_torque1Counter' in message 264; defaulting to 1 (Intel).
+Warning: Signals[61]: invalid Factor '[0|0]' for 'DI_torque1Counter' in message 264; default 1.0 used.
+Warning: Signals[61]: invalid Minimum 'NEO' for 'DI_torque1Counter' in message 264; left empty.
+Warning: Signals[62]: unknown ByteOrder '@1-' for signal 'DI_torqueMotor' in message 264; defaulting to 1 (Intel).
+Warning: Signals[62]: invalid Factor '[-750|750]' for 'DI_torqueMotor' in message 264; default 1.0 used.
+Warning: Signals[62]: invalid Offset 'Nm' for 'DI_torqueMotor' in message 264; default 0.0 used.
+Warning: Signals[62]: invalid Minimum 'NEO' for 'DI_torqueMotor' in message 264; left empty.
+Warning: Signals[63]: unknown ByteOrder '@1+' for signal 'DI_soptState' in message 264; defaulting to 1 (Intel).
+Warning: Signals[63]: invalid Factor '[0|0]' for 'DI_soptState' in message 264; default 1.0 used.
+Warning: Signals[63]: invalid Minimum 'NEO' for 'DI_soptState' in message 264; left empty.
+Warning: Signals[64]: unknown ByteOrder '@1-' for signal 'DI_motorRPM' in message 264; defaulting to 1 (Intel).
+Warning: Signals[64]: invalid Factor '[-17000|17000]' for 'DI_motorRPM' in message 264; default 1.0 used.
+Warning: Signals[64]: invalid Offset 'RPM' for 'DI_motorRPM' in message 264; default 0.0 used.
+Warning: Signals[64]: invalid Minimum 'NEO' for 'DI_motorRPM' in message 264; left empty.
+Warning: Signals[65]: unknown ByteOrder '@1+' for signal 'DI_pedalPos' in message 264; defaulting to 1 (Intel).
+Warning: Signals[65]: invalid Factor '[0|100]' for 'DI_pedalPos' in message 264; default 1.0 used.
+Warning: Signals[65]: invalid Offset '%' for 'DI_pedalPos' in message 264; default 0.0 used.
+Warning: Signals[65]: invalid Minimum 'NEO' for 'DI_pedalPos' in message 264; left empty.
+Warning: Signals[66]: unknown ByteOrder '@1+' for signal 'DI_torque1Checksum' in message 264; defaulting to 1 (Intel).
+Warning: Signals[66]: invalid Factor '[0|0]' for 'DI_torque1Checksum' in message 264; default 1.0 used.
+Warning: Signals[66]: invalid Minimum 'NEO' for 'DI_torque1Checksum' in message 264; left empty.
+Warning: Signals[67]: unknown ByteOrder '@1-' for signal 'DI_torqueEstimate' in message 280; defaulting to 1 (Intel).
+Warning: Signals[67]: invalid Factor '[-750|750]' for 'DI_torqueEstimate' in message 280; default 1.0 used.
+Warning: Signals[67]: invalid Offset 'Nm' for 'DI_torqueEstimate' in message 280; default 0.0 used.
+Warning: Signals[67]: invalid Minimum 'NEO' for 'DI_torqueEstimate' in message 280; left empty.
+Warning: Signals[68]: unknown ByteOrder '@1+' for signal 'DI_gear' in message 280; defaulting to 1 (Intel).
+Warning: Signals[68]: invalid Factor '[0|0]' for 'DI_gear' in message 280; default 1.0 used.
+Warning: Signals[68]: invalid Minimum 'NEO' for 'DI_gear' in message 280; left empty.
+Warning: Signals[69]: unknown ByteOrder '@1+' for signal 'DI_brakePedal' in message 280; defaulting to 1 (Intel).
+Warning: Signals[69]: invalid Factor '[0|0]' for 'DI_brakePedal' in message 280; default 1.0 used.
+Warning: Signals[69]: invalid Minimum 'NEO' for 'DI_brakePedal' in message 280; left empty.
+Warning: Signals[70]: unknown ByteOrder '@1+' for signal 'DI_vehicleSpeed' in message 280; defaulting to 1 (Intel).
+Warning: Signals[70]: invalid Factor '[-25|179.75]' for 'DI_vehicleSpeed' in message 280; default 1.0 used.
+Warning: Signals[70]: invalid Offset 'MPH' for 'DI_vehicleSpeed' in message 280; default 0.0 used.
+Warning: Signals[70]: invalid Minimum 'NEO' for 'DI_vehicleSpeed' in message 280; left empty.
+Warning: Signals[71]: unknown ByteOrder '@1+' for signal 'DI_gearRequest' in message 280; defaulting to 1 (Intel).
+Warning: Signals[71]: invalid Factor '[0|0]' for 'DI_gearRequest' in message 280; default 1.0 used.
+Warning: Signals[71]: invalid Minimum 'NEO' for 'DI_gearRequest' in message 280; left empty.
+Warning: Signals[72]: unknown ByteOrder '@1+' for signal 'DI_torqueInterfaceFailure' in message 280; defaulting to 1 (Intel).
+Warning: Signals[72]: invalid Factor '[0|0]' for 'DI_torqueInterfaceFailure' in message 280; default 1.0 used.
+Warning: Signals[72]: invalid Minimum 'NEO' for 'DI_torqueInterfaceFailure' in message 280; left empty.
+Warning: Signals[73]: unknown ByteOrder '@1+' for signal 'DI_torque2Counter' in message 280; defaulting to 1 (Intel).
+Warning: Signals[73]: invalid Factor '[0|0]' for 'DI_torque2Counter' in message 280; default 1.0 used.
+Warning: Signals[73]: invalid Minimum 'NEO' for 'DI_torque2Counter' in message 280; left empty.
+Warning: Signals[74]: unknown ByteOrder '@1+' for signal 'DI_brakePedalState' in message 280; defaulting to 1 (Intel).
+Warning: Signals[74]: invalid Factor '[0|0]' for 'DI_brakePedalState' in message 280; default 1.0 used.
+Warning: Signals[74]: invalid Minimum 'NEO' for 'DI_brakePedalState' in message 280; left empty.
+Warning: Signals[75]: unknown ByteOrder '@1+' for signal 'DI_epbParkRequest' in message 280; defaulting to 1 (Intel).
+Warning: Signals[75]: invalid Factor '[0|0]' for 'DI_epbParkRequest' in message 280; default 1.0 used.
+Warning: Signals[75]: invalid Minimum 'NEO' for 'DI_epbParkRequest' in message 280; left empty.
+Warning: Signals[76]: unknown ByteOrder '@1+' for signal 'DI_epbInterfaceReady' in message 280; defaulting to 1 (Intel).
+Warning: Signals[76]: invalid Factor '[0|0]' for 'DI_epbInterfaceReady' in message 280; default 1.0 used.
+Warning: Signals[76]: invalid Minimum 'NEO' for 'DI_epbInterfaceReady' in message 280; left empty.
+Warning: Signals[77]: unknown ByteOrder '@1+' for signal 'DI_torque2Checksum' in message 280; defaulting to 1 (Intel).
+Warning: Signals[77]: invalid Factor '[0|0]' for 'DI_torque2Checksum' in message 280; default 1.0 used.
+Warning: Signals[77]: invalid Minimum 'NEO' for 'DI_torque2Checksum' in message 280; left empty.
+Warning: Signals[78]: unknown ByteOrder '@0+' for signal 'ESP_135hChecksum' in message 309; defaulting to 1 (Intel).
+Warning: Signals[78]: invalid Factor '[0|255]' for 'ESP_135hChecksum' in message 309; default 1.0 used.
+Warning: Signals[78]: invalid Minimum 'NEO' for 'ESP_135hChecksum' in message 309; left empty.
+Warning: Signals[79]: unknown ByteOrder '@0+' for signal 'ESP_135hCounter' in message 309; defaulting to 1 (Intel).
+Warning: Signals[79]: invalid Factor '[0|15]' for 'ESP_135hCounter' in message 309; default 1.0 used.
+Warning: Signals[79]: invalid Minimum 'NEO' for 'ESP_135hCounter' in message 309; left empty.
+Warning: Signals[80]: unknown ByteOrder '@0+' for signal 'ESP_absBrakeEvent' in message 309; defaulting to 1 (Intel).
+Warning: Signals[80]: invalid Factor '[-1|2]' for 'ESP_absBrakeEvent' in message 309; default 1.0 used.
+Warning: Signals[80]: invalid Minimum 'NEO' for 'ESP_absBrakeEvent' in message 309; left empty.
+Warning: Signals[81]: unknown ByteOrder '@0+' for signal 'ESP_brakeDiscWipingActive' in message 309; defaulting to 1 (Intel).
+Warning: Signals[81]: invalid Factor '[-1|2]' for 'ESP_brakeDiscWipingActive' in message 309; default 1.0 used.
+Warning: Signals[81]: invalid Minimum 'NEO' for 'ESP_brakeDiscWipingActive' in message 309; left empty.
+Warning: Signals[82]: unknown ByteOrder '@0+' for signal 'ESP_brakeLamp' in message 309; defaulting to 1 (Intel).
+Warning: Signals[82]: invalid Factor '[-1|2]' for 'ESP_brakeLamp' in message 309; default 1.0 used.
+Warning: Signals[82]: invalid Minimum 'NEO' for 'ESP_brakeLamp' in message 309; left empty.
+Warning: Signals[83]: unknown ByteOrder '@0+' for signal 'ESP_espFaultLamp' in message 309; defaulting to 1 (Intel).
+Warning: Signals[83]: invalid Factor '[-1|2]' for 'ESP_espFaultLamp' in message 309; default 1.0 used.
+Warning: Signals[83]: invalid Minimum 'NEO' for 'ESP_espFaultLamp' in message 309; left empty.
+Warning: Signals[84]: unknown ByteOrder '@0+' for signal 'ESP_espLampFlash' in message 309; defaulting to 1 (Intel).
+Warning: Signals[84]: invalid Factor '[-1|2]' for 'ESP_espLampFlash' in message 309; default 1.0 used.
+Warning: Signals[84]: invalid Minimum 'NEO' for 'ESP_espLampFlash' in message 309; left empty.
+Warning: Signals[85]: unknown ByteOrder '@0+' for signal 'ESP_hillStartAssistActive' in message 309; defaulting to 1 (Intel).
+Warning: Signals[85]: invalid Factor '[-1|4]' for 'ESP_hillStartAssistActive' in message 309; default 1.0 used.
+Warning: Signals[85]: invalid Minimum 'NEO' for 'ESP_hillStartAssistActive' in message 309; left empty.
+Warning: Signals[86]: unknown ByteOrder '@0+' for signal 'ESP_messagePumpService' in message 309; defaulting to 1 (Intel).
+Warning: Signals[86]: invalid Factor '[0|1]' for 'ESP_messagePumpService' in message 309; default 1.0 used.
+Warning: Signals[86]: invalid Minimum 'NEO' for 'ESP_messagePumpService' in message 309; left empty.
+Warning: Signals[87]: unknown ByteOrder '@0+' for signal 'ESP_messagePumpFailure' in message 309; defaulting to 1 (Intel).
+Warning: Signals[87]: invalid Factor '[0|1]' for 'ESP_messagePumpFailure' in message 309; default 1.0 used.
+Warning: Signals[87]: invalid Minimum 'NEO' for 'ESP_messagePumpFailure' in message 309; left empty.
+Warning: Signals[88]: unknown ByteOrder '@0+' for signal 'ESP_messageEBDFailure' in message 309; defaulting to 1 (Intel).
+Warning: Signals[88]: invalid Factor '[0|1]' for 'ESP_messageEBDFailure' in message 309; default 1.0 used.
+Warning: Signals[88]: invalid Minimum 'NEO' for 'ESP_messageEBDFailure' in message 309; left empty.
+Warning: Signals[89]: unknown ByteOrder '@0+' for signal 'ESP_absFaultLamp' in message 309; defaulting to 1 (Intel).
+Warning: Signals[89]: invalid Factor '[-1|2]' for 'ESP_absFaultLamp' in message 309; default 1.0 used.
+Warning: Signals[89]: invalid Minimum 'NEO' for 'ESP_absFaultLamp' in message 309; left empty.
+Warning: Signals[90]: unknown ByteOrder '@0+' for signal 'ESP_tcDisabledByFault' in message 309; defaulting to 1 (Intel).
+Warning: Signals[90]: invalid Factor '[0|1]' for 'ESP_tcDisabledByFault' in message 309; default 1.0 used.
+Warning: Signals[90]: invalid Minimum 'NEO' for 'ESP_tcDisabledByFault' in message 309; left empty.
+Warning: Signals[91]: unknown ByteOrder '@0+' for signal 'ESP_messageDynoModeActive' in message 309; defaulting to 1 (Intel).
+Warning: Signals[91]: invalid Factor '[0|1]' for 'ESP_messageDynoModeActive' in message 309; default 1.0 used.
+Warning: Signals[91]: invalid Minimum 'NEO' for 'ESP_messageDynoModeActive' in message 309; left empty.
+Warning: Signals[92]: unknown ByteOrder '@0+' for signal 'ESP_hydraulicBoostEnabled' in message 309; defaulting to 1 (Intel).
+Warning: Signals[92]: invalid Factor '[0|1]' for 'ESP_hydraulicBoostEnabled' in message 309; default 1.0 used.
+Warning: Signals[92]: invalid Minimum 'NEO' for 'ESP_hydraulicBoostEnabled' in message 309; left empty.
+Warning: Signals[93]: unknown ByteOrder '@0+' for signal 'ESP_espOffLamp' in message 309; defaulting to 1 (Intel).
+Warning: Signals[93]: invalid Factor '[-1|2]' for 'ESP_espOffLamp' in message 309; default 1.0 used.
+Warning: Signals[93]: invalid Minimum 'NEO' for 'ESP_espOffLamp' in message 309; left empty.
+Warning: Signals[94]: unknown ByteOrder '@0+' for signal 'ESP_stabilityControlSts' in message 309; defaulting to 1 (Intel).
+Warning: Signals[94]: invalid Factor '[6|7]' for 'ESP_stabilityControlSts' in message 309; default 1.0 used.
+Warning: Signals[94]: invalid Minimum 'NEO' for 'ESP_stabilityControlSts' in message 309; left empty.
+Warning: Signals[95]: unknown ByteOrder '@0+' for signal 'ESP_tcLampFlash' in message 309; defaulting to 1 (Intel).
+Warning: Signals[95]: invalid Factor '[-1|2]' for 'ESP_tcLampFlash' in message 309; default 1.0 used.
+Warning: Signals[95]: invalid Minimum 'NEO' for 'ESP_tcLampFlash' in message 309; left empty.
+Warning: Signals[96]: unknown ByteOrder '@0+' for signal 'ESP_tcOffLamp' in message 309; defaulting to 1 (Intel).
+Warning: Signals[96]: invalid Factor '[0|1]' for 'ESP_tcOffLamp' in message 309; default 1.0 used.
+Warning: Signals[96]: invalid Minimum 'NEO' for 'ESP_tcOffLamp' in message 309; left empty.
+Warning: Signals[97]: unknown ByteOrder '@0+' for signal 'ESP_BChecksum' in message 341; defaulting to 1 (Intel).
+Warning: Signals[97]: invalid Factor '[0|255]' for 'ESP_BChecksum' in message 341; default 1.0 used.
+Warning: Signals[97]: invalid Minimum 'NEO , EPAS' for 'ESP_BChecksum' in message 341; left empty.
+Warning: Signals[98]: unknown ByteOrder '@0+' for signal 'ESP_BCounter' in message 341; defaulting to 1 (Intel).
+Warning: Signals[98]: invalid Factor '[1|15]' for 'ESP_BCounter' in message 341; default 1.0 used.
+Warning: Signals[98]: invalid Minimum 'NEO , EPAS' for 'ESP_BCounter' in message 341; left empty.
+Warning: Signals[99]: unknown ByteOrder '@0+' for signal 'ESP_vehicleSpeed' in message 341; defaulting to 1 (Intel).
+Warning: Signals[99]: invalid Factor '[0|0]' for 'ESP_vehicleSpeed' in message 341; default 1.0 used.
+Warning: Signals[99]: invalid Offset 'kph' for 'ESP_vehicleSpeed' in message 341; default 0.0 used.
+Warning: Signals[99]: invalid Minimum 'NEO , EPAS' for 'ESP_vehicleSpeed' in message 341; left empty.
+Warning: Signals[100]: unknown ByteOrder '@0+' for signal 'ESP_vehicleSpeedQF' in message 341; defaulting to 1 (Intel).
+Warning: Signals[100]: invalid Factor '[1|2]' for 'ESP_vehicleSpeedQF' in message 341; default 1.0 used.
+Warning: Signals[100]: invalid Minimum 'NEO , EPAS' for 'ESP_vehicleSpeedQF' in message 341; left empty.
+Warning: Signals[101]: unknown ByteOrder '@0+' for signal 'ESP_wheelPulseCountFrL' in message 341; defaulting to 1 (Intel).
+Warning: Signals[101]: invalid Factor '[0|254]' for 'ESP_wheelPulseCountFrL' in message 341; default 1.0 used.
+Warning: Signals[101]: invalid Minimum 'NEO , EPAS' for 'ESP_wheelPulseCountFrL' in message 341; left empty.
+Warning: Signals[102]: unknown ByteOrder '@0+' for signal 'ESP_wheelPulseCountFrR' in message 341; defaulting to 1 (Intel).
+Warning: Signals[102]: invalid Factor '[0|254]' for 'ESP_wheelPulseCountFrR' in message 341; default 1.0 used.
+Warning: Signals[102]: invalid Minimum 'NEO , EPAS' for 'ESP_wheelPulseCountFrR' in message 341; left empty.
+Warning: Signals[103]: unknown ByteOrder '@0+' for signal 'ESP_wheelPulseCountReL' in message 341; defaulting to 1 (Intel).
+Warning: Signals[103]: invalid Factor '[0|254]' for 'ESP_wheelPulseCountReL' in message 341; default 1.0 used.
+Warning: Signals[103]: invalid Minimum 'NEO , EPAS' for 'ESP_wheelPulseCountReL' in message 341; left empty.
+Warning: Signals[104]: unknown ByteOrder '@0+' for signal 'ESP_wheelPulseCountReR' in message 341; defaulting to 1 (Intel).
+Warning: Signals[104]: invalid Factor '[0|254]' for 'ESP_wheelPulseCountReR' in message 341; default 1.0 used.
+Warning: Signals[104]: invalid Minimum 'NEO , EPAS' for 'ESP_wheelPulseCountReR' in message 341; left empty.
+Warning: Signals[105]: unknown ByteOrder '@0+' for signal 'SDM_bcklPassStatus' in message 513; defaulting to 1 (Intel).
+Warning: Signals[105]: invalid Factor '[0|3]' for 'SDM_bcklPassStatus' in message 513; default 1.0 used.
+Warning: Signals[105]: invalid Minimum 'NEO' for 'SDM_bcklPassStatus' in message 513; left empty.
+Warning: Signals[106]: unknown ByteOrder '@0+' for signal 'SDM_bcklDrivStatus' in message 513; defaulting to 1 (Intel).
+Warning: Signals[106]: invalid Factor '[0|3]' for 'SDM_bcklDrivStatus' in message 513; default 1.0 used.
+Warning: Signals[106]: invalid Minimum 'NEO' for 'SDM_bcklDrivStatus' in message 513; left empty.
+Warning: Signals[107]: unknown ByteOrder '@1+' for signal 'driverBrakeStatus' in message 522; defaulting to 1 (Intel).
+Warning: Signals[107]: invalid Factor '[0|3]' for 'driverBrakeStatus' in message 522; default 1.0 used.
+Warning: Signals[107]: invalid Minimum 'XXX' for 'driverBrakeStatus' in message 522; left empty.
+Warning: Signals[108]: unknown ByteOrder '@0+' for signal 'EPB_epasControlChecksum' in message 532; defaulting to 1 (Intel).
+Warning: Signals[108]: invalid Factor '[0|255]' for 'EPB_epasControlChecksum' in message 532; default 1.0 used.
+Warning: Signals[108]: invalid Minimum 'NEO , EPAS' for 'EPB_epasControlChecksum' in message 532; left empty.
+Warning: Signals[109]: unknown ByteOrder '@0+' for signal 'EPB_epasControlCounter' in message 532; defaulting to 1 (Intel).
+Warning: Signals[109]: invalid Factor '[0|15]' for 'EPB_epasControlCounter' in message 532; default 1.0 used.
+Warning: Signals[109]: invalid Minimum 'NEO , EPAS' for 'EPB_epasControlCounter' in message 532; left empty.
+Warning: Signals[110]: unknown ByteOrder '@0+' for signal 'EPB_epasEACAllow' in message 532; defaulting to 1 (Intel).
+Warning: Signals[110]: invalid Factor '[4|7]' for 'EPB_epasEACAllow' in message 532; default 1.0 used.
+Warning: Signals[110]: invalid Minimum 'NEO , EPAS' for 'EPB_epasEACAllow' in message 532; left empty.
+Warning: Signals[111]: unknown ByteOrder '@1+' for signal 'MCU_dasDebugEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[111]: invalid Factor '[0|0]' for 'MCU_dasDebugEnable' in message 536; default 1.0 used.
+Warning: Signals[111]: invalid Minimum 'NEO' for 'MCU_dasDebugEnable' in message 536; left empty.
+Warning: Signals[112]: unknown ByteOrder '@1+' for signal 'MCU_parkBrakeRequest' in message 536; defaulting to 1 (Intel).
+Warning: Signals[112]: invalid Factor '[0|0]' for 'MCU_parkBrakeRequest' in message 536; default 1.0 used.
+Warning: Signals[112]: invalid Minimum 'NEO' for 'MCU_parkBrakeRequest' in message 536; left empty.
+Warning: Signals[113]: unknown ByteOrder '@1+' for signal 'MCU_trailerModeCH' in message 536; defaulting to 1 (Intel).
+Warning: Signals[113]: invalid Factor '[0|0]' for 'MCU_trailerModeCH' in message 536; default 1.0 used.
+Warning: Signals[113]: invalid Minimum 'NEO' for 'MCU_trailerModeCH' in message 536; left empty.
+Warning: Signals[114]: unknown ByteOrder '@1+' for signal 'MCU_fcwSensitivity' in message 536; defaulting to 1 (Intel).
+Warning: Signals[114]: invalid Factor '[0|0]' for 'MCU_fcwSensitivity' in message 536; default 1.0 used.
+Warning: Signals[114]: invalid Minimum 'NEO' for 'MCU_fcwSensitivity' in message 536; left empty.
+Warning: Signals[115]: unknown ByteOrder '@1+' for signal 'MCU_fcwEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[115]: invalid Factor '[0|0]' for 'MCU_fcwEnable' in message 536; default 1.0 used.
+Warning: Signals[115]: invalid Minimum 'NEO' for 'MCU_fcwEnable' in message 536; left empty.
+Warning: Signals[116]: unknown ByteOrder '@1+' for signal 'MCU_latControlEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[116]: invalid Factor '[0|0]' for 'MCU_latControlEnable' in message 536; default 1.0 used.
+Warning: Signals[116]: invalid Minimum 'NEO' for 'MCU_latControlEnable' in message 536; left empty.
+Warning: Signals[117]: unknown ByteOrder '@1+' for signal 'MCU_accOvertakeEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[117]: invalid Factor '[0|0]' for 'MCU_accOvertakeEnable' in message 536; default 1.0 used.
+Warning: Signals[117]: invalid Minimum 'NEO' for 'MCU_accOvertakeEnable' in message 536; left empty.
+Warning: Signals[118]: unknown ByteOrder '@1+' for signal 'MCU_ldwEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[118]: invalid Factor '[0|0]' for 'MCU_ldwEnable' in message 536; default 1.0 used.
+Warning: Signals[118]: invalid Minimum 'NEO' for 'MCU_ldwEnable' in message 536; left empty.
+Warning: Signals[119]: unknown ByteOrder '@1+' for signal 'MCU_aebEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[119]: invalid Factor '[0|0]' for 'MCU_aebEnable' in message 536; default 1.0 used.
+Warning: Signals[119]: invalid Minimum 'NEO' for 'MCU_aebEnable' in message 536; left empty.
+Warning: Signals[120]: unknown ByteOrder '@1+' for signal 'MCU_bsdEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[120]: invalid Factor '[0|0]' for 'MCU_bsdEnable' in message 536; default 1.0 used.
+Warning: Signals[120]: invalid Minimum 'NEO' for 'MCU_bsdEnable' in message 536; left empty.
+Warning: Signals[121]: unknown ByteOrder '@1+' for signal 'MCU_ahlbEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[121]: invalid Factor '[0|0]' for 'MCU_ahlbEnable' in message 536; default 1.0 used.
+Warning: Signals[121]: invalid Minimum 'NEO' for 'MCU_ahlbEnable' in message 536; left empty.
+Warning: Signals[122]: unknown ByteOrder '@1+' for signal 'MCU_parkSetting' in message 536; defaulting to 1 (Intel).
+Warning: Signals[122]: invalid Factor '[0|0]' for 'MCU_parkSetting' in message 536; default 1.0 used.
+Warning: Signals[122]: invalid Minimum 'NEO' for 'MCU_parkSetting' in message 536; left empty.
+Warning: Signals[123]: unknown ByteOrder '@1+' for signal 'MCU_pedalSafetyEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[123]: invalid Factor '[0|0]' for 'MCU_pedalSafetyEnable' in message 536; default 1.0 used.
+Warning: Signals[123]: invalid Minimum 'NEO' for 'MCU_pedalSafetyEnable' in message 536; left empty.
+Warning: Signals[124]: unknown ByteOrder '@1+' for signal 'MCU_frontDefrostReq_das' in message 536; defaulting to 1 (Intel).
+Warning: Signals[124]: invalid Factor '[0|0]' for 'MCU_frontDefrostReq_das' in message 536; default 1.0 used.
+Warning: Signals[124]: invalid Minimum 'NEO' for 'MCU_frontDefrostReq_das' in message 536; left empty.
+Warning: Signals[125]: unknown ByteOrder '@1+' for signal 'MCU_autoParkRequest' in message 536; defaulting to 1 (Intel).
+Warning: Signals[125]: invalid Factor '[0|0]' for 'MCU_autoParkRequest' in message 536; default 1.0 used.
+Warning: Signals[125]: invalid Minimum 'NEO' for 'MCU_autoParkRequest' in message 536; left empty.
+Warning: Signals[126]: unknown ByteOrder '@1+' for signal 'MCU_redLightStopSignEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[126]: invalid Factor '[0|0]' for 'MCU_redLightStopSignEnable' in message 536; default 1.0 used.
+Warning: Signals[126]: invalid Minimum 'NEO' for 'MCU_redLightStopSignEnable' in message 536; left empty.
+Warning: Signals[127]: unknown ByteOrder '@1+' for signal 'MCU_enableCreepTorqueCH' in message 536; defaulting to 1 (Intel).
+Warning: Signals[127]: invalid Factor '[0|0]' for 'MCU_enableCreepTorqueCH' in message 536; default 1.0 used.
+Warning: Signals[127]: invalid Minimum 'NEO' for 'MCU_enableCreepTorqueCH' in message 536; left empty.
+Warning: Signals[128]: unknown ByteOrder '@1+' for signal 'MCU_narrowGarages' in message 536; defaulting to 1 (Intel).
+Warning: Signals[128]: invalid Factor '[0|0]' for 'MCU_narrowGarages' in message 536; default 1.0 used.
+Warning: Signals[128]: invalid Minimum 'NEO' for 'MCU_narrowGarages' in message 536; left empty.
+Warning: Signals[129]: unknown ByteOrder '@1+' for signal 'MCU_rebootAutopilot' in message 536; defaulting to 1 (Intel).
+Warning: Signals[129]: invalid Factor '[0|0]' for 'MCU_rebootAutopilot' in message 536; default 1.0 used.
+Warning: Signals[129]: invalid Minimum 'NEO' for 'MCU_rebootAutopilot' in message 536; left empty.
+Warning: Signals[130]: unknown ByteOrder '@1+' for signal 'MCU_enableAutowipers' in message 536; defaulting to 1 (Intel).
+Warning: Signals[130]: invalid Factor '[0|0]' for 'MCU_enableAutowipers' in message 536; default 1.0 used.
+Warning: Signals[130]: invalid Minimum 'NEO' for 'MCU_enableAutowipers' in message 536; left empty.
+Warning: Signals[131]: unknown ByteOrder '@1+' for signal 'MCU_overPaintedUSS' in message 536; defaulting to 1 (Intel).
+Warning: Signals[131]: invalid Factor '[0|0]' for 'MCU_overPaintedUSS' in message 536; default 1.0 used.
+Warning: Signals[131]: invalid Minimum 'NEO' for 'MCU_overPaintedUSS' in message 536; left empty.
+Warning: Signals[132]: unknown ByteOrder '@1+' for signal 'MCU_selfParkTune' in message 536; defaulting to 1 (Intel).
+Warning: Signals[132]: invalid Factor '[0|15]' for 'MCU_selfParkTune' in message 536; default 1.0 used.
+Warning: Signals[132]: invalid Minimum 'NEO' for 'MCU_selfParkTune' in message 536; left empty.
+Warning: Signals[133]: unknown ByteOrder '@1+' for signal 'MCU_towModeEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[133]: invalid Factor '[0|0]' for 'MCU_towModeEnable' in message 536; default 1.0 used.
+Warning: Signals[133]: invalid Minimum 'NEO' for 'MCU_towModeEnable' in message 536; left empty.
+Warning: Signals[134]: unknown ByteOrder '@1+' for signal 'MCU_zeroSpeedConfirmed' in message 536; defaulting to 1 (Intel).
+Warning: Signals[134]: invalid Factor '[0|0]' for 'MCU_zeroSpeedConfirmed' in message 536; default 1.0 used.
+Warning: Signals[134]: invalid Minimum 'NEO' for 'MCU_zeroSpeedConfirmed' in message 536; left empty.
+Warning: Signals[135]: unknown ByteOrder '@1+' for signal 'MCU_aesEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[135]: invalid Factor '[0|0]' for 'MCU_aesEnable' in message 536; default 1.0 used.
+Warning: Signals[135]: invalid Minimum 'NEO' for 'MCU_aesEnable' in message 536; left empty.
+Warning: Signals[136]: unknown ByteOrder '@1+' for signal 'MCU_autoLaneChangeEnable' in message 536; defaulting to 1 (Intel).
+Warning: Signals[136]: invalid Factor '[0|0]' for 'MCU_autoLaneChangeEnable' in message 536; default 1.0 used.
+Warning: Signals[136]: invalid Minimum 'NEO' for 'MCU_autoLaneChangeEnable' in message 536; left empty.
+Warning: Signals[137]: unknown ByteOrder '@1+' for signal 'MCU_chassisControlCounter' in message 536; defaulting to 1 (Intel).
+Warning: Signals[137]: invalid Factor '[0|0]' for 'MCU_chassisControlCounter' in message 536; default 1.0 used.
+Warning: Signals[137]: invalid Minimum 'NEO' for 'MCU_chassisControlCounter' in message 536; left empty.
+Warning: Signals[138]: unknown ByteOrder '@1+' for signal 'MCU_chassisControlChecksum' in message 536; defaulting to 1 (Intel).
+Warning: Signals[138]: invalid Factor '[0|0]' for 'MCU_chassisControlChecksum' in message 536; default 1.0 used.
+Warning: Signals[138]: invalid Minimum 'NEO' for 'MCU_chassisControlChecksum' in message 536; left empty.
+Warning: Signals[139]: unknown ByteOrder '@1+' for signal 'UI_roadSign' in message 568; defaulting to 1 (Intel).
+Warning: Signals[139]: invalid Factor '[0|0]' for 'UI_roadSign' in message 568; default 1.0 used.
+Warning: Signals[139]: invalid Minimum 'DAS' for 'UI_roadSign' in message 568; left empty.
+Warning: Signals[140]: unknown ByteOrder '@1+' for signal 'UI_splineLocConfidence' in message 568; defaulting to 1 (Intel).
+Warning: Signals[140]: invalid Factor '[0|100]' for 'UI_splineLocConfidence' in message 568; default 1.0 used.
+Warning: Signals[140]: invalid Minimum 'DAS' for 'UI_splineLocConfidence' in message 568; left empty.
+Warning: Signals[141]: unknown ByteOrder '@1+' for signal 'UI_splineID' in message 568; defaulting to 1 (Intel).
+Warning: Signals[141]: invalid Factor '[0|15]' for 'UI_splineID' in message 568; default 1.0 used.
+Warning: Signals[141]: invalid Minimum 'Vector__XXX' for 'UI_splineID' in message 568; left empty.
+Warning: Signals[142]: unknown ByteOrder '@1+' for signal 'UI_roadSignCounter' in message 568; defaulting to 1 (Intel).
+Warning: Signals[142]: invalid Factor '[0|0]' for 'UI_roadSignCounter' in message 568; default 1.0 used.
+Warning: Signals[142]: invalid Minimum 'Vector__XXX' for 'UI_roadSignCounter' in message 568; left empty.
+Warning: Signals[143]: unknown ByteOrder '@1+' for signal 'UI_roadSignChecksum' in message 568; defaulting to 1 (Intel).
+Warning: Signals[143]: invalid Factor '[0|0]' for 'UI_roadSignChecksum' in message 568; default 1.0 used.
+Warning: Signals[143]: invalid Minimum 'Vector__XXX' for 'UI_roadSignChecksum' in message 568; left empty.
+Warning: Signals[144]: unknown ByteOrder '@1+' for signal 'UI_dummyData' in message 568; defaulting to 1 (Intel).
+Warning: Signals[144]: invalid Factor '[0|0]' for 'UI_dummyData' in message 568; default 1.0 used.
+Warning: Signals[144]: invalid Minimum 'Vector__XXX' for 'UI_dummyData' in message 568; left empty.
+Warning: Signals[145]: unknown ByteOrder '@1+' for signal 'UI_stopSignStopLineDist' in message 568; defaulting to 1 (Intel).
+Warning: Signals[145]: invalid Factor '[-8|247.5]' for 'UI_stopSignStopLineDist' in message 568; default 1.0 used.
+Warning: Signals[145]: invalid Offset 'm' for 'UI_stopSignStopLineDist' in message 568; default 0.0 used.
+Warning: Signals[145]: invalid Minimum 'Vector__XXX' for 'UI_stopSignStopLineDist' in message 568; left empty.
+Warning: Signals[146]: unknown ByteOrder '@1+' for signal 'UI_stopSignStopLineConf' in message 568; defaulting to 1 (Intel).
+Warning: Signals[146]: invalid Factor '[0|100]' for 'UI_stopSignStopLineConf' in message 568; default 1.0 used.
+Warning: Signals[146]: invalid Minimum 'Vector__XXX' for 'UI_stopSignStopLineConf' in message 568; left empty.
+Warning: Signals[147]: unknown ByteOrder '@1+' for signal 'UI_trafficLightStopLineDist' in message 568; defaulting to 1 (Intel).
+Warning: Signals[147]: invalid Factor '[-8|247.5]' for 'UI_trafficLightStopLineDist' in message 568; default 1.0 used.
+Warning: Signals[147]: invalid Offset 'm' for 'UI_trafficLightStopLineDist' in message 568; default 0.0 used.
+Warning: Signals[147]: invalid Minimum 'Vector__XXX' for 'UI_trafficLightStopLineDist' in message 568; left empty.
+Warning: Signals[148]: unknown ByteOrder '@1+' for signal 'UI_trafficLightStopLineConf' in message 568; defaulting to 1 (Intel).
+Warning: Signals[148]: invalid Factor '[0|100]' for 'UI_trafficLightStopLineConf' in message 568; default 1.0 used.
+Warning: Signals[148]: invalid Minimum 'Vector__XXX' for 'UI_trafficLightStopLineConf' in message 568; left empty.
+Warning: Signals[149]: unknown ByteOrder '@1+' for signal 'UI_baseMapSpeedLimitMPS' in message 568; defaulting to 1 (Intel).
+Warning: Signals[149]: invalid Factor '[0|63.75]' for 'UI_baseMapSpeedLimitMPS' in message 568; default 1.0 used.
+Warning: Signals[149]: invalid Offset 'm/s' for 'UI_baseMapSpeedLimitMPS' in message 568; default 0.0 used.
+Warning: Signals[149]: invalid Minimum 'DAS' for 'UI_baseMapSpeedLimitMPS' in message 568; left empty.
+Warning: Signals[150]: unknown ByteOrder '@1+' for signal 'UI_bottomQrtlFleetSpeedMPS' in message 568; defaulting to 1 (Intel).
+Warning: Signals[150]: invalid Factor '[0|63.75]' for 'UI_bottomQrtlFleetSpeedMPS' in message 568; default 1.0 used.
+Warning: Signals[150]: invalid Offset 'm/s' for 'UI_bottomQrtlFleetSpeedMPS' in message 568; default 0.0 used.
+Warning: Signals[150]: invalid Minimum 'DAS' for 'UI_bottomQrtlFleetSpeedMPS' in message 568; left empty.
+Warning: Signals[151]: unknown ByteOrder '@1+' for signal 'UI_topQrtlFleetSpeedMPS' in message 568; defaulting to 1 (Intel).
+Warning: Signals[151]: invalid Factor '[0|63.75]' for 'UI_topQrtlFleetSpeedMPS' in message 568; default 1.0 used.
+Warning: Signals[151]: invalid Offset 'm/s' for 'UI_topQrtlFleetSpeedMPS' in message 568; default 0.0 used.
+Warning: Signals[151]: invalid Minimum 'DAS' for 'UI_topQrtlFleetSpeedMPS' in message 568; left empty.
+Warning: Signals[152]: unknown ByteOrder '@1+' for signal 'UI_meanFleetSplineSpeedMPS' in message 568; defaulting to 1 (Intel).
+Warning: Signals[152]: invalid Factor '[0|63.75]' for 'UI_meanFleetSplineSpeedMPS' in message 568; default 1.0 used.
+Warning: Signals[152]: invalid Offset 'm/s' for 'UI_meanFleetSplineSpeedMPS' in message 568; default 0.0 used.
+Warning: Signals[152]: invalid Minimum 'DAS' for 'UI_meanFleetSplineSpeedMPS' in message 568; left empty.
+Warning: Signals[153]: unknown ByteOrder '@1+' for signal 'UI_medianFleetSpeedMPS' in message 568; defaulting to 1 (Intel).
+Warning: Signals[153]: invalid Factor '[0|63.75]' for 'UI_medianFleetSpeedMPS' in message 568; default 1.0 used.
+Warning: Signals[153]: invalid Offset 'm/s' for 'UI_medianFleetSpeedMPS' in message 568; default 0.0 used.
+Warning: Signals[153]: invalid Minimum 'DAS' for 'UI_medianFleetSpeedMPS' in message 568; left empty.
+Warning: Signals[154]: unknown ByteOrder '@1+' for signal 'UI_meanFleetSplineAccelMPS2' in message 568; defaulting to 1 (Intel).
+Warning: Signals[154]: invalid Factor '[-6.35|6.4]' for 'UI_meanFleetSplineAccelMPS2' in message 568; default 1.0 used.
+Warning: Signals[154]: invalid Offset 'm/s^2' for 'UI_meanFleetSplineAccelMPS2' in message 568; default 0.0 used.
+Warning: Signals[154]: invalid Minimum 'DAS' for 'UI_meanFleetSplineAccelMPS2' in message 568; left empty.
+Warning: Signals[155]: unknown ByteOrder '@1+' for signal 'UI_rampType' in message 568; defaulting to 1 (Intel).
+Warning: Signals[155]: invalid Factor '[0|7]' for 'UI_rampType' in message 568; default 1.0 used.
+Warning: Signals[155]: invalid Minimum 'DAS' for 'UI_rampType' in message 568; left empty.
+Warning: Signals[156]: unknown ByteOrder '@1+' for signal 'UI_currSplineIdFull' in message 568; defaulting to 1 (Intel).
+Warning: Signals[156]: invalid Factor '[0|1]' for 'UI_currSplineIdFull' in message 568; default 1.0 used.
+Warning: Signals[156]: invalid Minimum 'APP' for 'UI_currSplineIdFull' in message 568; left empty.
+Warning: Signals[157]: unknown ByteOrder '@1-' for signal 'UI_solarAzimuthAngle' in message 582; defaulting to 1 (Intel).
+Warning: Signals[157]: invalid Factor '[0|360]' for 'UI_solarAzimuthAngle' in message 582; default 1.0 used.
+Warning: Signals[157]: invalid Offset 'deg' for 'UI_solarAzimuthAngle' in message 582; default 0.0 used.
+Warning: Signals[157]: invalid Minimum 'APP' for 'UI_solarAzimuthAngle' in message 582; left empty.
+Warning: Signals[158]: unknown ByteOrder '@1-' for signal 'UI_solarAzimuthAngleCarRef' in message 582; defaulting to 1 (Intel).
+Warning: Signals[158]: invalid Factor '[-180|180]' for 'UI_solarAzimuthAngleCarRef' in message 582; default 1.0 used.
+Warning: Signals[158]: invalid Offset 'deg' for 'UI_solarAzimuthAngleCarRef' in message 582; default 0.0 used.
+Warning: Signals[158]: invalid Minimum 'APP' for 'UI_solarAzimuthAngleCarRef' in message 582; left empty.
+Warning: Signals[159]: unknown ByteOrder '@1+' for signal 'UI_isSunUp' in message 582; defaulting to 1 (Intel).
+Warning: Signals[159]: invalid Factor '[0|0]' for 'UI_isSunUp' in message 582; default 1.0 used.
+Warning: Signals[159]: invalid Minimum 'Vector__XXX' for 'UI_isSunUp' in message 582; left empty.
+Warning: Signals[160]: unknown ByteOrder '@1-' for signal 'UI_solarElevationAngle' in message 582; defaulting to 1 (Intel).
+Warning: Signals[160]: invalid Factor '[-90|90]' for 'UI_solarElevationAngle' in message 582; default 1.0 used.
+Warning: Signals[160]: invalid Offset 'deg' for 'UI_solarElevationAngle' in message 582; default 0.0 used.
+Warning: Signals[160]: invalid Minimum 'APP' for 'UI_solarElevationAngle' in message 582; left empty.
+Warning: Signals[161]: unknown ByteOrder '@0+' for signal 'AirTemp_Insd' in message 643; defaulting to 1 (Intel).
+Warning: Signals[161]: invalid Factor '[0|63.5]' for 'AirTemp_Insd' in message 643; default 1.0 used.
+Warning: Signals[161]: invalid Offset 'C' for 'AirTemp_Insd' in message 643; default 0.0 used.
+Warning: Signals[161]: invalid Minimum 'NEO' for 'AirTemp_Insd' in message 643; left empty.
+Warning: Signals[162]: unknown ByteOrder '@0+' for signal 'AirTemp_Outsd' in message 643; defaulting to 1 (Intel).
+Warning: Signals[162]: invalid Factor '[-40|86.5]' for 'AirTemp_Outsd' in message 643; default 1.0 used.
+Warning: Signals[162]: invalid Offset 'C' for 'AirTemp_Outsd' in message 643; default 0.0 used.
+Warning: Signals[162]: invalid Minimum 'NEO' for 'AirTemp_Outsd' in message 643; left empty.
+Warning: Signals[163]: unknown ByteOrder '@0+' for signal 'Bckl_Sw_RL_Stat_SAM_R' in message 643; defaulting to 1 (Intel).
+Warning: Signals[163]: invalid Factor '[-1|4]' for 'Bckl_Sw_RL_Stat_SAM_R' in message 643; default 1.0 used.
+Warning: Signals[163]: invalid Minimum 'NEO' for 'Bckl_Sw_RL_Stat_SAM_R' in message 643; left empty.
+Warning: Signals[164]: unknown ByteOrder '@0+' for signal 'Bckl_Sw_RM_Stat_SAM_R' in message 643; defaulting to 1 (Intel).
+Warning: Signals[164]: invalid Factor '[-1|4]' for 'Bckl_Sw_RM_Stat_SAM_R' in message 643; default 1.0 used.
+Warning: Signals[164]: invalid Minimum 'NEO' for 'Bckl_Sw_RM_Stat_SAM_R' in message 643; left empty.
+Warning: Signals[165]: unknown ByteOrder '@0+' for signal 'Bckl_Sw_RR_Stat_SAM_R' in message 643; defaulting to 1 (Intel).
+Warning: Signals[165]: invalid Factor '[-1|4]' for 'Bckl_Sw_RR_Stat_SAM_R' in message 643; default 1.0 used.
+Warning: Signals[165]: invalid Minimum 'NEO' for 'Bckl_Sw_RR_Stat_SAM_R' in message 643; left empty.
+Warning: Signals[166]: unknown ByteOrder '@0+' for signal 'DL_RLtch_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[166]: invalid Factor '[-1|4]' for 'DL_RLtch_Stat' in message 643; default 1.0 used.
+Warning: Signals[166]: invalid Minimum 'NEO' for 'DL_RLtch_Stat' in message 643; left empty.
+Warning: Signals[167]: unknown ByteOrder '@0+' for signal 'DrRLtch_FL_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[167]: invalid Factor '[-1|4]' for 'DrRLtch_FL_Stat' in message 643; default 1.0 used.
+Warning: Signals[167]: invalid Minimum 'NEO' for 'DrRLtch_FL_Stat' in message 643; left empty.
+Warning: Signals[168]: unknown ByteOrder '@0+' for signal 'DrRLtch_FR_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[168]: invalid Factor '[-1|4]' for 'DrRLtch_FR_Stat' in message 643; default 1.0 used.
+Warning: Signals[168]: invalid Minimum 'NEO' for 'DrRLtch_FR_Stat' in message 643; left empty.
+Warning: Signals[169]: unknown ByteOrder '@0+' for signal 'DrRLtch_RL_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[169]: invalid Factor '[-1|4]' for 'DrRLtch_RL_Stat' in message 643; default 1.0 used.
+Warning: Signals[169]: invalid Minimum 'NEO' for 'DrRLtch_RL_Stat' in message 643; left empty.
+Warning: Signals[170]: unknown ByteOrder '@0+' for signal 'DrRLtch_RR_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[170]: invalid Factor '[-1|4]' for 'DrRLtch_RR_Stat' in message 643; default 1.0 used.
+Warning: Signals[170]: invalid Minimum 'NEO' for 'DrRLtch_RR_Stat' in message 643; left empty.
+Warning: Signals[171]: unknown ByteOrder '@0+' for signal 'EngHd_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[171]: invalid Factor '[-1|4]' for 'EngHd_Stat' in message 643; default 1.0 used.
+Warning: Signals[171]: invalid Minimum 'NEO' for 'EngHd_Stat' in message 643; left empty.
+Warning: Signals[172]: unknown ByteOrder '@0+' for signal 'LoBm_On_Rq' in message 643; defaulting to 1 (Intel).
+Warning: Signals[172]: invalid Factor '[0|1]' for 'LoBm_On_Rq' in message 643; default 1.0 used.
+Warning: Signals[172]: invalid Minimum 'NEO' for 'LoBm_On_Rq' in message 643; left empty.
+Warning: Signals[173]: unknown ByteOrder '@0+' for signal 'HiBm_On' in message 643; defaulting to 1 (Intel).
+Warning: Signals[173]: invalid Factor '[0|1]' for 'HiBm_On' in message 643; default 1.0 used.
+Warning: Signals[173]: invalid Minimum 'NEO' for 'HiBm_On' in message 643; left empty.
+Warning: Signals[174]: unknown ByteOrder '@0+' for signal 'Hrn_On' in message 643; defaulting to 1 (Intel).
+Warning: Signals[174]: invalid Factor '[0|1]' for 'Hrn_On' in message 643; default 1.0 used.
+Warning: Signals[174]: invalid Minimum 'NEO' for 'Hrn_On' in message 643; left empty.
+Warning: Signals[175]: unknown ByteOrder '@0+' for signal 'IrLmp_D_Lt_Flt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[175]: invalid Factor '[0|1]' for 'IrLmp_D_Lt_Flt' in message 643; default 1.0 used.
+Warning: Signals[175]: invalid Minimum 'NEO' for 'IrLmp_D_Lt_Flt' in message 643; left empty.
+Warning: Signals[176]: unknown ByteOrder '@0+' for signal 'IrLmp_P_Rt_Flt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[176]: invalid Factor '[0|1]' for 'IrLmp_P_Rt_Flt' in message 643; default 1.0 used.
+Warning: Signals[176]: invalid Minimum 'NEO' for 'IrLmp_P_Rt_Flt' in message 643; left empty.
+Warning: Signals[177]: unknown ByteOrder '@0+' for signal 'LgtSens_Twlgt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[177]: invalid Factor '[0|7]' for 'LgtSens_Twlgt' in message 643; default 1.0 used.
+Warning: Signals[177]: invalid Offset 'Steps' for 'LgtSens_Twlgt' in message 643; default 0.0 used.
+Warning: Signals[177]: invalid Minimum 'NEO' for 'LgtSens_Twlgt' in message 643; left empty.
+Warning: Signals[178]: unknown ByteOrder '@0+' for signal 'LgtSens_SNA' in message 643; defaulting to 1 (Intel).
+Warning: Signals[178]: invalid Factor '[0|1]' for 'LgtSens_SNA' in message 643; default 1.0 used.
+Warning: Signals[178]: invalid Minimum 'NEO' for 'LgtSens_SNA' in message 643; left empty.
+Warning: Signals[179]: unknown ByteOrder '@0+' for signal 'LgtSens_Tunnel' in message 643; defaulting to 1 (Intel).
+Warning: Signals[179]: invalid Factor '[0|1]' for 'LgtSens_Tunnel' in message 643; default 1.0 used.
+Warning: Signals[179]: invalid Minimum 'NEO' for 'LgtSens_Tunnel' in message 643; left empty.
+Warning: Signals[180]: unknown ByteOrder '@0+' for signal 'LgtSens_Flt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[180]: invalid Factor '[0|1]' for 'LgtSens_Flt' in message 643; default 1.0 used.
+Warning: Signals[180]: invalid Minimum 'NEO' for 'LgtSens_Flt' in message 643; left empty.
+Warning: Signals[181]: unknown ByteOrder '@0+' for signal 'LgtSens_Night' in message 643; defaulting to 1 (Intel).
+Warning: Signals[181]: invalid Factor '[-1|2]' for 'LgtSens_Night' in message 643; default 1.0 used.
+Warning: Signals[181]: invalid Minimum 'NEO' for 'LgtSens_Night' in message 643; left empty.
+Warning: Signals[182]: unknown ByteOrder '@0+' for signal 'ADL_LoBm_On_Rq' in message 643; defaulting to 1 (Intel).
+Warning: Signals[182]: invalid Factor '[0|1]' for 'ADL_LoBm_On_Rq' in message 643; default 1.0 used.
+Warning: Signals[182]: invalid Minimum 'NEO' for 'ADL_LoBm_On_Rq' in message 643; left empty.
+Warning: Signals[183]: unknown ByteOrder '@0+' for signal 'LoBm_D_Lt_Flt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[183]: invalid Factor '[0|1]' for 'LoBm_D_Lt_Flt' in message 643; default 1.0 used.
+Warning: Signals[183]: invalid Minimum 'NEO' for 'LoBm_D_Lt_Flt' in message 643; left empty.
+Warning: Signals[184]: unknown ByteOrder '@0+' for signal 'LoBm_P_Rt_Flt' in message 643; defaulting to 1 (Intel).
+Warning: Signals[184]: invalid Factor '[0|1]' for 'LoBm_P_Rt_Flt' in message 643; default 1.0 used.
+Warning: Signals[184]: invalid Minimum 'NEO' for 'LoBm_P_Rt_Flt' in message 643; left empty.
+Warning: Signals[185]: unknown ByteOrder '@0+' for signal 'MPkBrk_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[185]: invalid Factor '[-1|2]' for 'MPkBrk_Stat' in message 643; default 1.0 used.
+Warning: Signals[185]: invalid Minimum 'NEO' for 'MPkBrk_Stat' in message 643; left empty.
+Warning: Signals[186]: unknown ByteOrder '@0+' for signal 'RevGr_Engg' in message 643; defaulting to 1 (Intel).
+Warning: Signals[186]: invalid Factor '[-1|4]' for 'RevGr_Engg' in message 643; default 1.0 used.
+Warning: Signals[186]: invalid Minimum 'NEO' for 'RevGr_Engg' in message 643; left empty.
+Warning: Signals[187]: unknown ByteOrder '@0+' for signal 'StW_Cond_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[187]: invalid Factor '[-1|4]' for 'StW_Cond_Stat' in message 643; default 1.0 used.
+Warning: Signals[187]: invalid Minimum 'NEO' for 'StW_Cond_Stat' in message 643; left empty.
+Warning: Signals[188]: unknown ByteOrder '@0+' for signal 'Term54_Actv' in message 643; defaulting to 1 (Intel).
+Warning: Signals[188]: invalid Factor '[0|1]' for 'Term54_Actv' in message 643; default 1.0 used.
+Warning: Signals[188]: invalid Minimum 'NEO' for 'Term54_Actv' in message 643; left empty.
+Warning: Signals[189]: unknown ByteOrder '@0+' for signal 'Trlr_Stat' in message 643; defaulting to 1 (Intel).
+Warning: Signals[189]: invalid Factor '[-1|4]' for 'Trlr_Stat' in message 643; default 1.0 used.
+Warning: Signals[189]: invalid Minimum 'NEO' for 'Trlr_Stat' in message 643; left empty.
+Warning: Signals[190]: unknown ByteOrder '@0+' for signal 'VTA_Alm_Actv' in message 643; defaulting to 1 (Intel).
+Warning: Signals[190]: invalid Factor '[0|1]' for 'VTA_Alm_Actv' in message 643; default 1.0 used.
+Warning: Signals[190]: invalid Minimum 'NEO' for 'VTA_Alm_Actv' in message 643; left empty.
+Warning: Signals[191]: unknown ByteOrder '@0+' for signal 'WprOutsdPkPosn' in message 643; defaulting to 1 (Intel).
+Warning: Signals[191]: invalid Factor '[0|1]' for 'WprOutsdPkPosn' in message 643; default 1.0 used.
+Warning: Signals[191]: invalid Minimum 'NEO' for 'WprOutsdPkPosn' in message 643; left empty.
+Warning: Signals[192]: unknown ByteOrder '@1+' for signal 'UI_radarTargetDx' in message 696; defaulting to 1 (Intel).
+Warning: Signals[192]: invalid Factor '[-95|160]' for 'UI_radarTargetDx' in message 696; default 1.0 used.
+Warning: Signals[192]: invalid Offset 'm' for 'UI_radarTargetDx' in message 696; default 0.0 used.
+Warning: Signals[192]: invalid Minimum 'DAS' for 'UI_radarTargetDx' in message 696; left empty.
+Warning: Signals[193]: unknown ByteOrder '@1+' for signal 'UI_radarTargetDxEnd' in message 696; defaulting to 1 (Intel).
+Warning: Signals[193]: invalid Factor '[0|255]' for 'UI_radarTargetDxEnd' in message 696; default 1.0 used.
+Warning: Signals[193]: invalid Offset 'm' for 'UI_radarTargetDxEnd' in message 696; default 0.0 used.
+Warning: Signals[193]: invalid Minimum 'DAS' for 'UI_radarTargetDxEnd' in message 696; left empty.
+Warning: Signals[194]: unknown ByteOrder '@1+' for signal 'UI_radarTargetTrustMap' in message 696; defaulting to 1 (Intel).
+Warning: Signals[194]: invalid Factor '[0|1]' for 'UI_radarTargetTrustMap' in message 696; default 1.0 used.
+Warning: Signals[194]: invalid Minimum 'DAS' for 'UI_radarTargetTrustMap' in message 696; left empty.
+Warning: Signals[195]: unknown ByteOrder '@1+' for signal 'UI_radarEnableBraking' in message 696; defaulting to 1 (Intel).
+Warning: Signals[195]: invalid Factor '[0|1]' for 'UI_radarEnableBraking' in message 696; default 1.0 used.
+Warning: Signals[195]: invalid Minimum 'DAS' for 'UI_radarEnableBraking' in message 696; left empty.
+Warning: Signals[196]: unknown ByteOrder '@1+' for signal 'UI_radarMapDataCounter' in message 696; defaulting to 1 (Intel).
+Warning: Signals[196]: invalid Factor '[0|0]' for 'UI_radarMapDataCounter' in message 696; default 1.0 used.
+Warning: Signals[196]: invalid Minimum 'DAS' for 'UI_radarMapDataCounter' in message 696; left empty.
+Warning: Signals[197]: unknown ByteOrder '@1+' for signal 'UI_radarMapDataChecksum' in message 696; defaulting to 1 (Intel).
+Warning: Signals[197]: invalid Factor '[0|0]' for 'UI_radarMapDataChecksum' in message 696; default 1.0 used.
+Warning: Signals[197]: invalid Minimum 'DAS' for 'UI_radarMapDataChecksum' in message 696; left empty.
+Warning: Signals[198]: unknown ByteOrder '@1+' for signal 'DAS_setSpeed' in message 697; defaulting to 1 (Intel).
+Warning: Signals[198]: invalid Factor '[0|409.4]' for 'DAS_setSpeed' in message 697; default 1.0 used.
+Warning: Signals[198]: invalid Offset 'kph' for 'DAS_setSpeed' in message 697; default 0.0 used.
+Warning: Signals[198]: invalid Minimum 'NEO' for 'DAS_setSpeed' in message 697; left empty.
+Warning: Signals[199]: unknown ByteOrder '@1+' for signal 'DAS_accState' in message 697; defaulting to 1 (Intel).
+Warning: Signals[199]: invalid Factor '[0|0]' for 'DAS_accState' in message 697; default 1.0 used.
+Warning: Signals[199]: invalid Minimum 'NEO' for 'DAS_accState' in message 697; left empty.
+Warning: Signals[200]: unknown ByteOrder '@1+' for signal 'DAS_aebEvent' in message 697; defaulting to 1 (Intel).
+Warning: Signals[200]: invalid Factor '[0|3]' for 'DAS_aebEvent' in message 697; default 1.0 used.
+Warning: Signals[200]: invalid Minimum 'NEO' for 'DAS_aebEvent' in message 697; left empty.
+Warning: Signals[201]: unknown ByteOrder '@1+' for signal 'DAS_jerkMin' in message 697; defaulting to 1 (Intel).
+Warning: Signals[201]: invalid Factor '[-15.232|0.098]' for 'DAS_jerkMin' in message 697; default 1.0 used.
+Warning: Signals[201]: invalid Offset 'm/s^3' for 'DAS_jerkMin' in message 697; default 0.0 used.
+Warning: Signals[201]: invalid Minimum 'NEO' for 'DAS_jerkMin' in message 697; left empty.
+Warning: Signals[202]: unknown ByteOrder '@1+' for signal 'DAS_jerkMax' in message 697; defaulting to 1 (Intel).
+Warning: Signals[202]: invalid Factor '[0|15.045]' for 'DAS_jerkMax' in message 697; default 1.0 used.
+Warning: Signals[202]: invalid Offset 'm/s^3' for 'DAS_jerkMax' in message 697; default 0.0 used.
+Warning: Signals[202]: invalid Minimum 'NEO' for 'DAS_jerkMax' in message 697; left empty.
+Warning: Signals[203]: unknown ByteOrder '@1+' for signal 'DAS_accelMin' in message 697; defaulting to 1 (Intel).
+Warning: Signals[203]: invalid Factor '[-15|5.44]' for 'DAS_accelMin' in message 697; default 1.0 used.
+Warning: Signals[203]: invalid Offset 'm/s^2' for 'DAS_accelMin' in message 697; default 0.0 used.
+Warning: Signals[203]: invalid Minimum 'NEO' for 'DAS_accelMin' in message 697; left empty.
+Warning: Signals[204]: unknown ByteOrder '@1+' for signal 'DAS_accelMax' in message 697; defaulting to 1 (Intel).
+Warning: Signals[204]: invalid Factor '[-15|5.44]' for 'DAS_accelMax' in message 697; default 1.0 used.
+Warning: Signals[204]: invalid Offset 'm/s^2' for 'DAS_accelMax' in message 697; default 0.0 used.
+Warning: Signals[204]: invalid Minimum 'NEO' for 'DAS_accelMax' in message 697; left empty.
+Warning: Signals[205]: unknown ByteOrder '@1+' for signal 'DAS_controlCounter' in message 697; defaulting to 1 (Intel).
+Warning: Signals[205]: invalid Factor '[0|0]' for 'DAS_controlCounter' in message 697; default 1.0 used.
+Warning: Signals[205]: invalid Minimum 'NEO' for 'DAS_controlCounter' in message 697; left empty.
+Warning: Signals[206]: unknown ByteOrder '@1+' for signal 'DAS_controlChecksum' in message 697; defaulting to 1 (Intel).
+Warning: Signals[206]: invalid Factor '[0|0]' for 'DAS_controlChecksum' in message 697; default 1.0 used.
+Warning: Signals[206]: invalid Minimum 'NEO' for 'DAS_controlChecksum' in message 697; left empty.
+Warning: Signals[207]: unknown ByteOrder '@1-' for signal 'UI_roadCurvC0' in message 712; defaulting to 1 (Intel).
+Warning: Signals[207]: invalid Factor '[-20.48|20.46]' for 'UI_roadCurvC0' in message 712; default 1.0 used.
+Warning: Signals[207]: invalid Offset 'm' for 'UI_roadCurvC0' in message 712; default 0.0 used.
+Warning: Signals[207]: invalid Minimum 'DAS' for 'UI_roadCurvC0' in message 712; left empty.
+Warning: Signals[208]: unknown ByteOrder '@1-' for signal 'UI_roadCurvC1' in message 712; defaulting to 1 (Intel).
+Warning: Signals[208]: invalid Factor '[-0.384|0.38325]' for 'UI_roadCurvC1' in message 712; default 1.0 used.
+Warning: Signals[208]: invalid Minimum 'DAS' for 'UI_roadCurvC1' in message 712; left empty.
+Warning: Signals[209]: unknown ByteOrder '@1-' for signal 'UI_roadCurvC2' in message 712; defaulting to 1 (Intel).
+Warning: Signals[209]: invalid Factor '[-0.03072|0.03071625]' for 'UI_roadCurvC2' in message 712; default 1.0 used.
+Warning: Signals[209]: invalid Offset '1/m' for 'UI_roadCurvC2' in message 712; default 0.0 used.
+Warning: Signals[209]: invalid Minimum 'DAS' for 'UI_roadCurvC2' in message 712; left empty.
+Warning: Signals[210]: unknown ByteOrder '@1-' for signal 'UI_roadCurvC3' in message 712; defaulting to 1 (Intel).
+Warning: Signals[210]: invalid Factor '[-0.00012288|0.00012285]' for 'UI_roadCurvC3' in message 712; default 1.0 used.
+Warning: Signals[210]: invalid Offset '1/m2' for 'UI_roadCurvC3' in message 712; default 0.0 used.
+Warning: Signals[210]: invalid Minimum 'DAS' for 'UI_roadCurvC3' in message 712; left empty.
+Warning: Signals[211]: unknown ByteOrder '@1+' for signal 'UI_roadCurvRange' in message 712; defaulting to 1 (Intel).
+Warning: Signals[211]: invalid Factor '[0|252]' for 'UI_roadCurvRange' in message 712; default 1.0 used.
+Warning: Signals[211]: invalid Offset 'm' for 'UI_roadCurvRange' in message 712; default 0.0 used.
+Warning: Signals[211]: invalid Minimum 'DAS' for 'UI_roadCurvRange' in message 712; left empty.
+Warning: Signals[212]: unknown ByteOrder '@1+' for signal 'UI_roadCurvHealth' in message 712; defaulting to 1 (Intel).
+Warning: Signals[212]: invalid Factor '[0|0]' for 'UI_roadCurvHealth' in message 712; default 1.0 used.
+Warning: Signals[212]: invalid Minimum 'DAS' for 'UI_roadCurvHealth' in message 712; left empty.
+Warning: Signals[213]: unknown ByteOrder '@1+' for signal 'UI_roadCurvChecksum' in message 712; defaulting to 1 (Intel).
+Warning: Signals[213]: invalid Factor '[0|0]' for 'UI_roadCurvChecksum' in message 712; default 1.0 used.
+Warning: Signals[213]: invalid Minimum 'Vector__XXX' for 'UI_roadCurvChecksum' in message 712; left empty.
+Warning: Signals[214]: unknown ByteOrder '@1-' for signal 'UI_csaOfframpCurvC2' in message 728; defaulting to 1 (Intel).
+Warning: Signals[214]: invalid Factor '[-0.032768|0.032767]' for 'UI_csaOfframpCurvC2' in message 728; default 1.0 used.
+Warning: Signals[214]: invalid Offset '1/m' for 'UI_csaOfframpCurvC2' in message 728; default 0.0 used.
+Warning: Signals[214]: invalid Minimum 'DAS' for 'UI_csaOfframpCurvC2' in message 728; left empty.
+Warning: Signals[215]: unknown ByteOrder '@1-' for signal 'UI_csaOfframpCurvC3' in message 728; defaulting to 1 (Intel).
+Warning: Signals[215]: invalid Factor '[-0.000131072|0.000131068]' for 'UI_csaOfframpCurvC3' in message 728; default 1.0 used.
+Warning: Signals[215]: invalid Offset '1/m2' for 'UI_csaOfframpCurvC3' in message 728; default 0.0 used.
+Warning: Signals[215]: invalid Minimum 'DAS' for 'UI_csaOfframpCurvC3' in message 728; left empty.
+Warning: Signals[216]: unknown ByteOrder '@1+' for signal 'UI_csaOfframpCurvRange' in message 728; defaulting to 1 (Intel).
+Warning: Signals[216]: invalid Factor '[0|510]' for 'UI_csaOfframpCurvRange' in message 728; default 1.0 used.
+Warning: Signals[216]: invalid Offset 'm' for 'UI_csaOfframpCurvRange' in message 728; default 0.0 used.
+Warning: Signals[216]: invalid Minimum 'DAS' for 'UI_csaOfframpCurvRange' in message 728; left empty.
+Warning: Signals[217]: unknown ByteOrder '@1+' for signal 'UI_csaOfframpCurvCounter' in message 728; defaulting to 1 (Intel).
+Warning: Signals[217]: invalid Factor '[0|255]' for 'UI_csaOfframpCurvCounter' in message 728; default 1.0 used.
+Warning: Signals[217]: invalid Minimum 'Vector__XXX' for 'UI_csaOfframpCurvCounter' in message 728; left empty.
+Warning: Signals[218]: unknown ByteOrder '@1+' for signal 'UI_csaOfframpCurvUsingTspline' in message 728; defaulting to 1 (Intel).
+Warning: Signals[218]: invalid Factor '[0|1]' for 'UI_csaOfframpCurvUsingTspline' in message 728; default 1.0 used.
+Warning: Signals[218]: invalid Minimum 'DAS' for 'UI_csaOfframpCurvUsingTspline' in message 728; left empty.
+Warning: Signals[219]: unknown ByteOrder '@1+' for signal 'UI_csaOfframpCurvReserved' in message 728; defaulting to 1 (Intel).
+Warning: Signals[219]: invalid Factor '[0|0]' for 'UI_csaOfframpCurvReserved' in message 728; default 1.0 used.
+Warning: Signals[219]: invalid Minimum 'Vector__XXX' for 'UI_csaOfframpCurvReserved' in message 728; left empty.
+Warning: Signals[220]: unknown ByteOrder '@1+' for signal 'UI_csaOfframpCurvChecksum' in message 728; defaulting to 1 (Intel).
+Warning: Signals[220]: invalid Factor '[0|0]' for 'UI_csaOfframpCurvChecksum' in message 728; default 1.0 used.
+Warning: Signals[220]: invalid Minimum 'Vector__XXX' for 'UI_csaOfframpCurvChecksum' in message 728; left empty.
+Warning: Signals[221]: unknown ByteOrder '@1-' for signal 'UI_csaRoadCurvC2' in message 744; defaulting to 1 (Intel).
+Warning: Signals[221]: invalid Factor '[-0.032768|0.032767]' for 'UI_csaRoadCurvC2' in message 744; default 1.0 used.
+Warning: Signals[221]: invalid Offset '1/m' for 'UI_csaRoadCurvC2' in message 744; default 0.0 used.
+Warning: Signals[221]: invalid Minimum 'DAS' for 'UI_csaRoadCurvC2' in message 744; left empty.
+Warning: Signals[222]: unknown ByteOrder '@1-' for signal 'UI_csaRoadCurvC3' in message 744; defaulting to 1 (Intel).
+Warning: Signals[222]: invalid Factor '[-0.000131072|0.000131068]' for 'UI_csaRoadCurvC3' in message 744; default 1.0 used.
+Warning: Signals[222]: invalid Offset '1/m2' for 'UI_csaRoadCurvC3' in message 744; default 0.0 used.
+Warning: Signals[222]: invalid Minimum 'DAS' for 'UI_csaRoadCurvC3' in message 744; left empty.
+Warning: Signals[223]: unknown ByteOrder '@1+' for signal 'UI_csaRoadCurvRange' in message 744; defaulting to 1 (Intel).
+Warning: Signals[223]: invalid Factor '[0|510]' for 'UI_csaRoadCurvRange' in message 744; default 1.0 used.
+Warning: Signals[223]: invalid Offset 'm' for 'UI_csaRoadCurvRange' in message 744; default 0.0 used.
+Warning: Signals[223]: invalid Minimum 'DAS' for 'UI_csaRoadCurvRange' in message 744; left empty.
+Warning: Signals[224]: unknown ByteOrder '@1+' for signal 'UI_csaRoadCurvCounter' in message 744; defaulting to 1 (Intel).
+Warning: Signals[224]: invalid Factor '[0|255]' for 'UI_csaRoadCurvCounter' in message 744; default 1.0 used.
+Warning: Signals[224]: invalid Minimum 'Vector__XXX' for 'UI_csaRoadCurvCounter' in message 744; left empty.
+Warning: Signals[225]: unknown ByteOrder '@1+' for signal 'UI_csaRoadCurvUsingTspline' in message 744; defaulting to 1 (Intel).
+Warning: Signals[225]: invalid Factor '[0|1]' for 'UI_csaRoadCurvUsingTspline' in message 744; default 1.0 used.
+Warning: Signals[225]: invalid Minimum 'DAS' for 'UI_csaRoadCurvUsingTspline' in message 744; left empty.
+Warning: Signals[226]: unknown ByteOrder '@1+' for signal 'UI_csaRoadCurvReserved' in message 744; defaulting to 1 (Intel).
+Warning: Signals[226]: invalid Factor '[0|0]' for 'UI_csaRoadCurvReserved' in message 744; default 1.0 used.
+Warning: Signals[226]: invalid Minimum 'Vector__XXX' for 'UI_csaRoadCurvReserved' in message 744; left empty.
+Warning: Signals[227]: unknown ByteOrder '@1+' for signal 'UI_csaRoadCurvChecksum' in message 744; defaulting to 1 (Intel).
+Warning: Signals[227]: invalid Factor '[0|0]' for 'UI_csaRoadCurvChecksum' in message 744; default 1.0 used.
+Warning: Signals[227]: invalid Minimum 'Vector__XXX' for 'UI_csaRoadCurvChecksum' in message 744; left empty.
+Warning: Signals[228]: unknown ByteOrder '@1+' for signal 'UI_gpsHDOP' in message 760; defaulting to 1 (Intel).
+Warning: Signals[228]: invalid Factor '[0|25.5]' for 'UI_gpsHDOP' in message 760; default 1.0 used.
+Warning: Signals[228]: invalid Minimum 'DAS' for 'UI_gpsHDOP' in message 760; left empty.
+Warning: Signals[229]: unknown ByteOrder '@1+' for signal 'UI_gpsVehicleHeading' in message 760; defaulting to 1 (Intel).
+Warning: Signals[229]: invalid Factor '[0|511.9921875]' for 'UI_gpsVehicleHeading' in message 760; default 1.0 used.
+Warning: Signals[229]: invalid Offset 'deg' for 'UI_gpsVehicleHeading' in message 760; default 0.0 used.
+Warning: Signals[229]: invalid Minimum 'DAS' for 'UI_gpsVehicleHeading' in message 760; left empty.
+Warning: Signals[230]: unknown ByteOrder '@1+' for signal 'UI_gpsVehicleSpeed' in message 760; defaulting to 1 (Intel).
+Warning: Signals[230]: invalid Factor '[0|250.996]' for 'UI_gpsVehicleSpeed' in message 760; default 1.0 used.
+Warning: Signals[230]: invalid Offset 'km/hr' for 'UI_gpsVehicleSpeed' in message 760; default 0.0 used.
+Warning: Signals[230]: invalid Minimum 'Vector__XXX' for 'UI_gpsVehicleSpeed' in message 760; left empty.
+Warning: Signals[231]: unknown ByteOrder '@1+' for signal 'UI_userSpeedOffset' in message 760; defaulting to 1 (Intel).
+Warning: Signals[231]: invalid Factor '[-30|33]' for 'UI_userSpeedOffset' in message 760; default 1.0 used.
+Warning: Signals[231]: invalid Offset 'kph/mph' for 'UI_userSpeedOffset' in message 760; default 0.0 used.
+Warning: Signals[231]: invalid Minimum 'DAS' for 'UI_userSpeedOffset' in message 760; left empty.
+Warning: Signals[232]: unknown ByteOrder '@1+' for signal 'UI_mapSpeedLimitUnits' in message 760; defaulting to 1 (Intel).
+Warning: Signals[232]: invalid Factor '[0|1]' for 'UI_mapSpeedLimitUnits' in message 760; default 1.0 used.
+Warning: Signals[232]: invalid Minimum 'DAS' for 'UI_mapSpeedLimitUnits' in message 760; left empty.
+Warning: Signals[233]: unknown ByteOrder '@1+' for signal 'UI_userSpeedOffsetUnits' in message 760; defaulting to 1 (Intel).
+Warning: Signals[233]: invalid Factor '[0|1]' for 'UI_userSpeedOffsetUnits' in message 760; default 1.0 used.
+Warning: Signals[233]: invalid Minimum 'DAS' for 'UI_userSpeedOffsetUnits' in message 760; left empty.
+Warning: Signals[234]: unknown ByteOrder '@1+' for signal 'UI_mppSpeedLimit' in message 760; defaulting to 1 (Intel).
+Warning: Signals[234]: invalid Factor '[0|155]' for 'UI_mppSpeedLimit' in message 760; default 1.0 used.
+Warning: Signals[234]: invalid Offset 'kph/mph' for 'UI_mppSpeedLimit' in message 760; default 0.0 used.
+Warning: Signals[234]: invalid Minimum 'DAS' for 'UI_mppSpeedLimit' in message 760; left empty.
+Warning: Signals[235]: unknown ByteOrder '@1+' for signal 'UI_gpsNmeaMIA' in message 760; defaulting to 1 (Intel).
+Warning: Signals[235]: invalid Factor '[0|0]' for 'UI_gpsNmeaMIA' in message 760; default 1.0 used.
+Warning: Signals[235]: invalid Minimum 'DAS' for 'UI_gpsNmeaMIA' in message 760; left empty.
+Warning: Signals[236]: unknown ByteOrder '@1+' for signal 'YEAR' in message 792; defaulting to 1 (Intel).
+Warning: Signals[236]: invalid Factor '[2000|2127]' for 'YEAR' in message 792; default 1.0 used.
+Warning: Signals[236]: invalid Offset 'Year' for 'YEAR' in message 792; default 0.0 used.
+Warning: Signals[236]: invalid Minimum 'NEO' for 'YEAR' in message 792; left empty.
+Warning: Signals[237]: unknown ByteOrder '@1+' for signal 'CERRD' in message 792; defaulting to 1 (Intel).
+Warning: Signals[237]: invalid Factor '[0|1]' for 'CERRD' in message 792; default 1.0 used.
+Warning: Signals[237]: invalid Minimum 'NEO' for 'CERRD' in message 792; left empty.
+Warning: Signals[238]: unknown ByteOrder '@1+' for signal 'MONTH' in message 792; defaulting to 1 (Intel).
+Warning: Signals[238]: invalid Factor '[1|12]' for 'MONTH' in message 792; default 1.0 used.
+Warning: Signals[238]: invalid Offset 'Month' for 'MONTH' in message 792; default 0.0 used.
+Warning: Signals[238]: invalid Minimum 'NEO' for 'MONTH' in message 792; left empty.
+Warning: Signals[239]: unknown ByteOrder '@1+' for signal 'DOOR_STATE_FL' in message 792; defaulting to 1 (Intel).
+Warning: Signals[239]: invalid Factor '[0|3]' for 'DOOR_STATE_FL' in message 792; default 1.0 used.
+Warning: Signals[239]: invalid Minimum 'NEO' for 'DOOR_STATE_FL' in message 792; left empty.
+Warning: Signals[240]: unknown ByteOrder '@1+' for signal 'DOOR_STATE_FR' in message 792; defaulting to 1 (Intel).
+Warning: Signals[240]: invalid Factor '[0|3]' for 'DOOR_STATE_FR' in message 792; default 1.0 used.
+Warning: Signals[240]: invalid Minimum 'NEO' for 'DOOR_STATE_FR' in message 792; left empty.
+Warning: Signals[241]: unknown ByteOrder '@1+' for signal 'SECOND' in message 792; defaulting to 1 (Intel).
+Warning: Signals[241]: invalid Factor '[0|59]' for 'SECOND' in message 792; default 1.0 used.
+Warning: Signals[241]: invalid Offset 's' for 'SECOND' in message 792; default 0.0 used.
+Warning: Signals[241]: invalid Minimum 'NEO' for 'SECOND' in message 792; left empty.
+Warning: Signals[242]: unknown ByteOrder '@1+' for signal 'DOOR_STATE_RL' in message 792; defaulting to 1 (Intel).
+Warning: Signals[242]: invalid Factor '[0|3]' for 'DOOR_STATE_RL' in message 792; default 1.0 used.
+Warning: Signals[242]: invalid Minimum 'NEO' for 'DOOR_STATE_RL' in message 792; left empty.
+Warning: Signals[243]: unknown ByteOrder '@1+' for signal 'Hour' in message 792; defaulting to 1 (Intel).
+Warning: Signals[243]: invalid Factor '[0|23]' for 'Hour' in message 792; default 1.0 used.
+Warning: Signals[243]: invalid Offset 'h' for 'Hour' in message 792; default 0.0 used.
+Warning: Signals[243]: invalid Minimum 'NEO' for 'Hour' in message 792; left empty.
+Warning: Signals[244]: unknown ByteOrder '@1+' for signal 'DOOR_STATE_RR' in message 792; defaulting to 1 (Intel).
+Warning: Signals[244]: invalid Factor '[0|3]' for 'DOOR_STATE_RR' in message 792; default 1.0 used.
+Warning: Signals[244]: invalid Minimum 'NEO' for 'DOOR_STATE_RR' in message 792; left empty.
+Warning: Signals[245]: unknown ByteOrder '@1+' for signal 'DAY' in message 792; defaulting to 1 (Intel).
+Warning: Signals[245]: invalid Factor '[0|31]' for 'DAY' in message 792; default 1.0 used.
+Warning: Signals[245]: invalid Minimum 'NEO' for 'DAY' in message 792; left empty.
+Warning: Signals[246]: unknown ByteOrder '@1+' for signal 'MINUTE' in message 792; defaulting to 1 (Intel).
+Warning: Signals[246]: invalid Factor '[0|59]' for 'MINUTE' in message 792; default 1.0 used.
+Warning: Signals[246]: invalid Offset 'min' for 'MINUTE' in message 792; default 0.0 used.
+Warning: Signals[246]: invalid Minimum 'NEO' for 'MINUTE' in message 792; left empty.
+Warning: Signals[247]: unknown ByteOrder '@1+' for signal 'BOOT_STATE' in message 792; defaulting to 1 (Intel).
+Warning: Signals[247]: invalid Factor '[0|3]' for 'BOOT_STATE' in message 792; default 1.0 used.
+Warning: Signals[247]: invalid Minimum 'NEO' for 'BOOT_STATE' in message 792; left empty.
+Warning: Signals[248]: unknown ByteOrder '@1+' for signal 'GTW_updateInProgress' in message 792; defaulting to 1 (Intel).
+Warning: Signals[248]: invalid Factor '[0|3]' for 'GTW_updateInProgress' in message 792; default 1.0 used.
+Warning: Signals[248]: invalid Minimum 'NEO' for 'GTW_updateInProgress' in message 792; left empty.
+Warning: Signals[249]: unknown ByteOrder '@1+' for signal 'DOOR_STATE_FrontTrunk' in message 792; defaulting to 1 (Intel).
+Warning: Signals[249]: invalid Factor '[0|3]' for 'DOOR_STATE_FrontTrunk' in message 792; default 1.0 used.
+Warning: Signals[249]: invalid Minimum 'NEO' for 'DOOR_STATE_FrontTrunk' in message 792; left empty.
+Warning: Signals[250]: unknown ByteOrder '@1+' for signal 'MCU_factoryMode' in message 792; defaulting to 1 (Intel).
+Warning: Signals[250]: invalid Factor '[0|1]' for 'MCU_factoryMode' in message 792; default 1.0 used.
+Warning: Signals[250]: invalid Minimum 'NEO' for 'MCU_factoryMode' in message 792; left empty.
+Warning: Signals[251]: unknown ByteOrder '@0+' for signal 'MCU_transportModeOn' in message 792; defaulting to 1 (Intel).
+Warning: Signals[251]: invalid Factor '[0|1]' for 'MCU_transportModeOn' in message 792; default 1.0 used.
+Warning: Signals[251]: invalid Minimum 'NEO' for 'MCU_transportModeOn' in message 792; left empty.
+Warning: Signals[252]: unknown ByteOrder '@0+' for signal 'BC_headLightLStatus' in message 792; defaulting to 1 (Intel).
+Warning: Signals[252]: invalid Factor '[0|3]' for 'BC_headLightLStatus' in message 792; default 1.0 used.
+Warning: Signals[252]: invalid Minimum 'NEO' for 'BC_headLightLStatus' in message 792; left empty.
+Warning: Signals[253]: unknown ByteOrder '@0+' for signal 'BC_headLightRStatus' in message 792; defaulting to 1 (Intel).
+Warning: Signals[253]: invalid Factor '[0|3]' for 'BC_headLightRStatus' in message 792; default 1.0 used.
+Warning: Signals[253]: invalid Minimum 'NEO' for 'BC_headLightRStatus' in message 792; left empty.
+Warning: Signals[254]: unknown ByteOrder '@0+' for signal 'BC_indicatorLStatus' in message 792; defaulting to 1 (Intel).
+Warning: Signals[254]: invalid Factor '[0|3]' for 'BC_indicatorLStatus' in message 792; default 1.0 used.
+Warning: Signals[254]: invalid Minimum 'NEO' for 'BC_indicatorLStatus' in message 792; left empty.
+Warning: Signals[255]: unknown ByteOrder '@0+' for signal 'BC_indicatorRStatus' in message 792; defaulting to 1 (Intel).
+Warning: Signals[255]: invalid Factor '[0|3]' for 'BC_indicatorRStatus' in message 792; default 1.0 used.
+Warning: Signals[255]: invalid Minimum 'NEO' for 'BC_indicatorRStatus' in message 792; left empty.
+Warning: Signals[256]: unknown ByteOrder '@1+' for signal 'UI_touchActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[256]: invalid Factor '[0|0]' for 'UI_touchActive' in message 824; default 1.0 used.
+Warning: Signals[256]: invalid Minimum 'IC' for 'UI_touchActive' in message 824; left empty.
+Warning: Signals[257]: unknown ByteOrder '@1+' for signal 'UI_audioActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[257]: invalid Factor '[0|0]' for 'UI_audioActive' in message 824; default 1.0 used.
+Warning: Signals[257]: invalid Minimum 'IC' for 'UI_audioActive' in message 824; left empty.
+Warning: Signals[258]: unknown ByteOrder '@1+' for signal 'UI_bluetoothActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[258]: invalid Factor '[0|0]' for 'UI_bluetoothActive' in message 824; default 1.0 used.
+Warning: Signals[258]: invalid Minimum 'IC' for 'UI_bluetoothActive' in message 824; left empty.
+Warning: Signals[259]: unknown ByteOrder '@1+' for signal 'UI_cellActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[259]: invalid Factor '[0|0]' for 'UI_cellActive' in message 824; default 1.0 used.
+Warning: Signals[259]: invalid Minimum 'IC' for 'UI_cellActive' in message 824; left empty.
+Warning: Signals[260]: unknown ByteOrder '@1+' for signal 'UI_displayReady' in message 824; defaulting to 1 (Intel).
+Warning: Signals[260]: invalid Factor '[0|0]' for 'UI_displayReady' in message 824; default 1.0 used.
+Warning: Signals[260]: invalid Minimum 'IC' for 'UI_displayReady' in message 824; left empty.
+Warning: Signals[261]: unknown ByteOrder '@1+' for signal 'UI_gpsActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[261]: invalid Factor '[0|0]' for 'UI_gpsActive' in message 824; default 1.0 used.
+Warning: Signals[261]: invalid Minimum 'IC' for 'UI_gpsActive' in message 824; left empty.
+Warning: Signals[262]: unknown ByteOrder '@1+' for signal 'UI_wifiConnected' in message 824; defaulting to 1 (Intel).
+Warning: Signals[262]: invalid Factor '[0|0]' for 'UI_wifiConnected' in message 824; default 1.0 used.
+Warning: Signals[262]: invalid Minimum 'IC , APP' for 'UI_wifiConnected' in message 824; left empty.
+Warning: Signals[263]: unknown ByteOrder '@1+' for signal 'UI_systemActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[263]: invalid Factor '[0|0]' for 'UI_systemActive' in message 824; default 1.0 used.
+Warning: Signals[263]: invalid Minimum 'IC' for 'UI_systemActive' in message 824; left empty.
+Warning: Signals[264]: unknown ByteOrder '@1+' for signal 'UI_xmActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[264]: invalid Factor '[0|0]' for 'UI_xmActive' in message 824; default 1.0 used.
+Warning: Signals[264]: invalid Minimum 'IC' for 'UI_xmActive' in message 824; left empty.
+Warning: Signals[265]: unknown ByteOrder '@1+' for signal 'UI_displayOn' in message 824; defaulting to 1 (Intel).
+Warning: Signals[265]: invalid Factor '[0|0]' for 'UI_displayOn' in message 824; default 1.0 used.
+Warning: Signals[265]: invalid Minimum 'IC , APP' for 'UI_displayOn' in message 824; left empty.
+Warning: Signals[266]: unknown ByteOrder '@1+' for signal 'UI_readyForDrive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[266]: invalid Factor '[0|0]' for 'UI_readyForDrive' in message 824; default 1.0 used.
+Warning: Signals[266]: invalid Minimum 'IC' for 'UI_readyForDrive' in message 824; left empty.
+Warning: Signals[267]: unknown ByteOrder '@1+' for signal 'UI_cellConnected' in message 824; defaulting to 1 (Intel).
+Warning: Signals[267]: invalid Factor '[0|0]' for 'UI_cellConnected' in message 824; default 1.0 used.
+Warning: Signals[267]: invalid Minimum 'IC , APP' for 'UI_cellConnected' in message 824; left empty.
+Warning: Signals[268]: unknown ByteOrder '@1+' for signal 'UI_vpnActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[268]: invalid Factor '[0|0]' for 'UI_vpnActive' in message 824; default 1.0 used.
+Warning: Signals[268]: invalid Minimum 'IC , APP' for 'UI_vpnActive' in message 824; left empty.
+Warning: Signals[269]: unknown ByteOrder '@1+' for signal 'UI_wifiActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[269]: invalid Factor '[0|0]' for 'UI_wifiActive' in message 824; default 1.0 used.
+Warning: Signals[269]: invalid Minimum 'IC' for 'UI_wifiActive' in message 824; left empty.
+Warning: Signals[270]: unknown ByteOrder '@1+' for signal 'UI_cameraActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[270]: invalid Factor '[0|0]' for 'UI_cameraActive' in message 824; default 1.0 used.
+Warning: Signals[270]: invalid Minimum 'IC , APP' for 'UI_cameraActive' in message 824; left empty.
+Warning: Signals[271]: unknown ByteOrder '@1+' for signal 'UI_usbActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[271]: invalid Factor '[0|0]' for 'UI_usbActive' in message 824; default 1.0 used.
+Warning: Signals[271]: invalid Minimum 'IC' for 'UI_usbActive' in message 824; left empty.
+Warning: Signals[272]: unknown ByteOrder '@1+' for signal 'UI_screenshotActive' in message 824; defaulting to 1 (Intel).
+Warning: Signals[272]: invalid Factor '[0|0]' for 'UI_screenshotActive' in message 824; default 1.0 used.
+Warning: Signals[272]: invalid Minimum 'IC , APP' for 'UI_screenshotActive' in message 824; left empty.
+Warning: Signals[273]: unknown ByteOrder '@1+' for signal 'UI_monitorModemPower' in message 824; defaulting to 1 (Intel).
+Warning: Signals[273]: invalid Factor '[0|0]' for 'UI_monitorModemPower' in message 824; default 1.0 used.
+Warning: Signals[273]: invalid Minimum 'Vector__XXX' for 'UI_monitorModemPower' in message 824; left empty.
+Warning: Signals[274]: unknown ByteOrder '@1+' for signal 'UI_factoryReset' in message 824; defaulting to 1 (Intel).
+Warning: Signals[274]: invalid Factor '[0|3]' for 'UI_factoryReset' in message 824; default 1.0 used.
+Warning: Signals[274]: invalid Minimum 'Vector__XXX' for 'UI_factoryReset' in message 824; left empty.
+Warning: Signals[275]: unknown ByteOrder '@1+' for signal 'UI_cellNetworkTechnology' in message 824; defaulting to 1 (Intel).
+Warning: Signals[275]: invalid Factor '[0|15]' for 'UI_cellNetworkTechnology' in message 824; default 1.0 used.
+Warning: Signals[275]: invalid Minimum 'APP' for 'UI_cellNetworkTechnology' in message 824; left empty.
+Warning: Signals[276]: unknown ByteOrder '@1+' for signal 'UI_tegraCoreTemperature' in message 824; defaulting to 1 (Intel).
+Warning: Signals[276]: invalid Factor '[0|0]' for 'UI_tegraCoreTemperature' in message 824; default 1.0 used.
+Warning: Signals[276]: invalid Offset 'deg C' for 'UI_tegraCoreTemperature' in message 824; default 0.0 used.
+Warning: Signals[276]: invalid Minimum 'IC' for 'UI_tegraCoreTemperature' in message 824; left empty.
+Warning: Signals[277]: unknown ByteOrder '@1+' for signal 'UI_tegraAmbientTemperature' in message 824; defaulting to 1 (Intel).
+Warning: Signals[277]: invalid Factor '[0|0]' for 'UI_tegraAmbientTemperature' in message 824; default 1.0 used.
+Warning: Signals[277]: invalid Offset 'deg C' for 'UI_tegraAmbientTemperature' in message 824; default 0.0 used.
+Warning: Signals[277]: invalid Minimum 'IC' for 'UI_tegraAmbientTemperature' in message 824; left empty.
+Warning: Signals[278]: unknown ByteOrder '@1+' for signal 'UI_googleWifiUsages' in message 824; defaulting to 1 (Intel).
+Warning: Signals[278]: invalid Factor '[0|0]' for 'UI_googleWifiUsages' in message 824; default 1.0 used.
+Warning: Signals[278]: invalid Minimum 'Vector__XXX' for 'UI_googleWifiUsages' in message 824; left empty.
+Warning: Signals[279]: unknown ByteOrder '@1+' for signal 'UI_autopilotTrial' in message 824; defaulting to 1 (Intel).
+Warning: Signals[279]: invalid Factor '[0|0]' for 'UI_autopilotTrial' in message 824; default 1.0 used.
+Warning: Signals[279]: invalid Minimum 'APP' for 'UI_autopilotTrial' in message 824; left empty.
+Warning: Signals[280]: unknown ByteOrder '@1+' for signal 'UI_cellSignalBars' in message 824; defaulting to 1 (Intel).
+Warning: Signals[280]: invalid Factor '[0|7]' for 'UI_cellSignalBars' in message 824; default 1.0 used.
+Warning: Signals[280]: invalid Minimum 'APP' for 'UI_cellSignalBars' in message 824; left empty.
+Warning: Signals[281]: unknown ByteOrder '@1+' for signal 'UI_hardwareType' in message 824; defaulting to 1 (Intel).
+Warning: Signals[281]: invalid Factor '[0|3]' for 'UI_hardwareType' in message 824; default 1.0 used.
+Warning: Signals[281]: invalid Minimum 'APP' for 'UI_hardwareType' in message 824; left empty.
+Warning: Signals[282]: unknown ByteOrder '@1+' for signal 'UI_developmentCar' in message 824; defaulting to 1 (Intel).
+Warning: Signals[282]: invalid Factor '[0|0]' for 'UI_developmentCar' in message 824; default 1.0 used.
+Warning: Signals[282]: invalid Minimum 'Vector__XXX' for 'UI_developmentCar' in message 824; left empty.
+Warning: Signals[283]: unknown ByteOrder '@1+' for signal 'UI_cellReceiverPower' in message 824; defaulting to 1 (Intel).
+Warning: Signals[283]: invalid Factor '[-128|127]' for 'UI_cellReceiverPower' in message 824; default 1.0 used.
+Warning: Signals[283]: invalid Offset 'dB' for 'UI_cellReceiverPower' in message 824; default 0.0 used.
+Warning: Signals[283]: invalid Minimum 'APP' for 'UI_cellReceiverPower' in message 824; left empty.
+Warning: Signals[284]: unknown ByteOrder '@0+' for signal 'GTW_accGoingDown' in message 840; defaulting to 1 (Intel).
+Warning: Signals[284]: invalid Factor '[0|1]' for 'GTW_accGoingDown' in message 840; default 1.0 used.
+Warning: Signals[284]: invalid Minimum 'NEO' for 'GTW_accGoingDown' in message 840; left empty.
+Warning: Signals[285]: unknown ByteOrder '@0+' for signal 'GTW_accRailReq' in message 840; defaulting to 1 (Intel).
+Warning: Signals[285]: invalid Factor '[0|1]' for 'GTW_accRailReq' in message 840; default 1.0 used.
+Warning: Signals[285]: invalid Minimum 'NEO' for 'GTW_accRailReq' in message 840; left empty.
+Warning: Signals[286]: unknown ByteOrder '@0+' for signal 'GTW_brakePressed' in message 840; defaulting to 1 (Intel).
+Warning: Signals[286]: invalid Factor '[0|1]' for 'GTW_brakePressed' in message 840; default 1.0 used.
+Warning: Signals[286]: invalid Minimum 'NEO' for 'GTW_brakePressed' in message 840; left empty.
+Warning: Signals[287]: unknown ByteOrder '@0+' for signal 'GTW_driveGoingDown' in message 840; defaulting to 1 (Intel).
+Warning: Signals[287]: invalid Factor '[0|1]' for 'GTW_driveGoingDown' in message 840; default 1.0 used.
+Warning: Signals[287]: invalid Minimum 'NEO' for 'GTW_driveGoingDown' in message 840; left empty.
+Warning: Signals[288]: unknown ByteOrder '@0+' for signal 'GTW_driveRailReq' in message 840; defaulting to 1 (Intel).
+Warning: Signals[288]: invalid Factor '[0|1]' for 'GTW_driveRailReq' in message 840; default 1.0 used.
+Warning: Signals[288]: invalid Minimum 'NEO' for 'GTW_driveRailReq' in message 840; left empty.
+Warning: Signals[289]: unknown ByteOrder '@0+' for signal 'GTW_driverIsLeaving' in message 840; defaulting to 1 (Intel).
+Warning: Signals[289]: invalid Factor '[0|1]' for 'GTW_driverIsLeaving' in message 840; default 1.0 used.
+Warning: Signals[289]: invalid Minimum 'NEO' for 'GTW_driverIsLeaving' in message 840; left empty.
+Warning: Signals[290]: unknown ByteOrder '@0+' for signal 'GTW_driverPresent' in message 840; defaulting to 1 (Intel).
+Warning: Signals[290]: invalid Factor '[0|1]' for 'GTW_driverPresent' in message 840; default 1.0 used.
+Warning: Signals[290]: invalid Minimum 'NEO' for 'GTW_driverPresent' in message 840; left empty.
+Warning: Signals[291]: unknown ByteOrder '@0+' for signal 'GTW_hvacGoingDown' in message 840; defaulting to 1 (Intel).
+Warning: Signals[291]: invalid Factor '[0|1]' for 'GTW_hvacGoingDown' in message 840; default 1.0 used.
+Warning: Signals[291]: invalid Minimum 'NEO' for 'GTW_hvacGoingDown' in message 840; left empty.
+Warning: Signals[292]: unknown ByteOrder '@0+' for signal 'GTW_hvacRailReq' in message 840; defaulting to 1 (Intel).
+Warning: Signals[292]: invalid Factor '[0|1]' for 'GTW_hvacRailReq' in message 840; default 1.0 used.
+Warning: Signals[292]: invalid Minimum 'NEO' for 'GTW_hvacRailReq' in message 840; left empty.
+Warning: Signals[293]: unknown ByteOrder '@0+' for signal 'GTW_icPowerOff' in message 840; defaulting to 1 (Intel).
+Warning: Signals[293]: invalid Factor '[0|1]' for 'GTW_icPowerOff' in message 840; default 1.0 used.
+Warning: Signals[293]: invalid Minimum 'NEO' for 'GTW_icPowerOff' in message 840; left empty.
+Warning: Signals[294]: unknown ByteOrder '@0+' for signal 'GTW_notEnough12VForDrive' in message 840; defaulting to 1 (Intel).
+Warning: Signals[294]: invalid Factor '[0|1]' for 'GTW_notEnough12VForDrive' in message 840; default 1.0 used.
+Warning: Signals[294]: invalid Minimum 'NEO' for 'GTW_notEnough12VForDrive' in message 840; left empty.
+Warning: Signals[295]: unknown ByteOrder '@0+' for signal 'GTW_preconditionRequest' in message 840; defaulting to 1 (Intel).
+Warning: Signals[295]: invalid Factor '[0|1]' for 'GTW_preconditionRequest' in message 840; default 1.0 used.
+Warning: Signals[295]: invalid Minimum 'NEO' for 'GTW_preconditionRequest' in message 840; left empty.
+Warning: Signals[296]: unknown ByteOrder '@0+' for signal 'GTW_statusChecksum' in message 840; defaulting to 1 (Intel).
+Warning: Signals[296]: invalid Factor '[0|255]' for 'GTW_statusChecksum' in message 840; default 1.0 used.
+Warning: Signals[296]: invalid Minimum 'NEO' for 'GTW_statusChecksum' in message 840; left empty.
+Warning: Signals[297]: unknown ByteOrder '@0+' for signal 'GTW_statusCounter' in message 840; defaulting to 1 (Intel).
+Warning: Signals[297]: invalid Factor '[0|15]' for 'GTW_statusCounter' in message 840; default 1.0 used.
+Warning: Signals[297]: invalid Minimum 'NEO' for 'GTW_statusCounter' in message 840; left empty.
+Warning: Signals[298]: unknown ByteOrder '@1+' for signal 'DI_systemState' in message 872; defaulting to 1 (Intel).
+Warning: Signals[298]: invalid Factor '[0|0]' for 'DI_systemState' in message 872; default 1.0 used.
+Warning: Signals[298]: invalid Minimum 'NEO' for 'DI_systemState' in message 872; left empty.
+Warning: Signals[299]: unknown ByteOrder '@1+' for signal 'DI_vehicleHoldState' in message 872; defaulting to 1 (Intel).
+Warning: Signals[299]: invalid Factor '[0|0]' for 'DI_vehicleHoldState' in message 872; default 1.0 used.
+Warning: Signals[299]: invalid Minimum 'NEO' for 'DI_vehicleHoldState' in message 872; left empty.
+Warning: Signals[300]: unknown ByteOrder '@1+' for signal 'DI_proximity' in message 872; defaulting to 1 (Intel).
+Warning: Signals[300]: invalid Factor '[0|0]' for 'DI_proximity' in message 872; default 1.0 used.
+Warning: Signals[300]: invalid Minimum 'NEO' for 'DI_proximity' in message 872; left empty.
+Warning: Signals[301]: unknown ByteOrder '@1+' for signal 'DI_driveReady' in message 872; defaulting to 1 (Intel).
+Warning: Signals[301]: invalid Factor '[0|0]' for 'DI_driveReady' in message 872; default 1.0 used.
+Warning: Signals[301]: invalid Minimum 'NEO' for 'DI_driveReady' in message 872; left empty.
+Warning: Signals[302]: unknown ByteOrder '@1+' for signal 'DI_regenLight' in message 872; defaulting to 1 (Intel).
+Warning: Signals[302]: invalid Factor '[0|0]' for 'DI_regenLight' in message 872; default 1.0 used.
+Warning: Signals[302]: invalid Minimum 'NEO' for 'DI_regenLight' in message 872; left empty.
+Warning: Signals[303]: unknown ByteOrder '@1+' for signal 'DI_state' in message 872; defaulting to 1 (Intel).
+Warning: Signals[303]: invalid Factor '[0|0]' for 'DI_state' in message 872; default 1.0 used.
+Warning: Signals[303]: invalid Minimum 'NEO' for 'DI_state' in message 872; left empty.
+Warning: Signals[304]: unknown ByteOrder '@1+' for signal 'DI_cruiseState' in message 872; defaulting to 1 (Intel).
+Warning: Signals[304]: invalid Factor '[0|0]' for 'DI_cruiseState' in message 872; default 1.0 used.
+Warning: Signals[304]: invalid Minimum 'NEO' for 'DI_cruiseState' in message 872; left empty.
+Warning: Signals[305]: unknown ByteOrder '@1+' for signal 'DI_analogSpeed' in message 872; defaulting to 1 (Intel).
+Warning: Signals[305]: invalid Factor '[0|150]' for 'DI_analogSpeed' in message 872; default 1.0 used.
+Warning: Signals[305]: invalid Offset 'speed' for 'DI_analogSpeed' in message 872; default 0.0 used.
+Warning: Signals[305]: invalid Minimum 'NEO' for 'DI_analogSpeed' in message 872; left empty.
+Warning: Signals[306]: unknown ByteOrder '@1+' for signal 'DI_immobilizerState' in message 872; defaulting to 1 (Intel).
+Warning: Signals[306]: invalid Factor '[0|0]' for 'DI_immobilizerState' in message 872; default 1.0 used.
+Warning: Signals[306]: invalid Minimum 'NEO' for 'DI_immobilizerState' in message 872; left empty.
+Warning: Signals[307]: unknown ByteOrder '@1+' for signal 'DI_speedUnits' in message 872; defaulting to 1 (Intel).
+Warning: Signals[307]: invalid Factor '[0|1]' for 'DI_speedUnits' in message 872; default 1.0 used.
+Warning: Signals[307]: invalid Minimum 'NEO' for 'DI_speedUnits' in message 872; left empty.
+Warning: Signals[308]: unknown ByteOrder '@1+' for signal 'DI_cruiseSet' in message 872; defaulting to 1 (Intel).
+Warning: Signals[308]: invalid Factor '[0|255.5]' for 'DI_cruiseSet' in message 872; default 1.0 used.
+Warning: Signals[308]: invalid Offset 'speed' for 'DI_cruiseSet' in message 872; default 0.0 used.
+Warning: Signals[308]: invalid Minimum 'NEO' for 'DI_cruiseSet' in message 872; left empty.
+Warning: Signals[309]: unknown ByteOrder '@1+' for signal 'DI_aebState' in message 872; defaulting to 1 (Intel).
+Warning: Signals[309]: invalid Factor '[0|0]' for 'DI_aebState' in message 872; default 1.0 used.
+Warning: Signals[309]: invalid Minimum 'NEO' for 'DI_aebState' in message 872; left empty.
+Warning: Signals[310]: unknown ByteOrder '@1+' for signal 'DI_stateCounter' in message 872; defaulting to 1 (Intel).
+Warning: Signals[310]: invalid Factor '[0|0]' for 'DI_stateCounter' in message 872; default 1.0 used.
+Warning: Signals[310]: invalid Minimum 'NEO' for 'DI_stateCounter' in message 872; left empty.
+Warning: Signals[311]: unknown ByteOrder '@1+' for signal 'DI_digitalSpeed' in message 872; defaulting to 1 (Intel).
+Warning: Signals[311]: invalid Factor '[0|250]' for 'DI_digitalSpeed' in message 872; default 1.0 used.
+Warning: Signals[311]: invalid Minimum 'NEO' for 'DI_digitalSpeed' in message 872; left empty.
+Warning: Signals[312]: unknown ByteOrder '@1+' for signal 'DI_stateChecksum' in message 872; defaulting to 1 (Intel).
+Warning: Signals[312]: invalid Factor '[0|0]' for 'DI_stateChecksum' in message 872; default 1.0 used.
+Warning: Signals[312]: invalid Minimum 'NEO' for 'DI_stateChecksum' in message 872; left empty.
+Warning: Signals[313]: unknown ByteOrder '@0+' for signal 'EPAS_currentTuneMode' in message 880; defaulting to 1 (Intel).
+Warning: Signals[313]: invalid Factor '[8|15]' for 'EPAS_currentTuneMode' in message 880; default 1.0 used.
+Warning: Signals[313]: invalid Minimum 'NEO' for 'EPAS_currentTuneMode' in message 880; left empty.
+Warning: Signals[314]: unknown ByteOrder '@0+' for signal 'EPAS_eacErrorCode' in message 880; defaulting to 1 (Intel).
+Warning: Signals[314]: invalid Factor '[-1|16]' for 'EPAS_eacErrorCode' in message 880; default 1.0 used.
+Warning: Signals[314]: invalid Minimum 'NEO' for 'EPAS_eacErrorCode' in message 880; left empty.
+Warning: Signals[315]: unknown ByteOrder '@0+' for signal 'EPAS_eacStatus' in message 880; defaulting to 1 (Intel).
+Warning: Signals[315]: invalid Factor '[5|7]' for 'EPAS_eacStatus' in message 880; default 1.0 used.
+Warning: Signals[315]: invalid Minimum 'NEO' for 'EPAS_eacStatus' in message 880; left empty.
+Warning: Signals[316]: unknown ByteOrder '@0+' for signal 'EPAS_handsOnLevel' in message 880; defaulting to 1 (Intel).
+Warning: Signals[316]: invalid Factor '[-1|4]' for 'EPAS_handsOnLevel' in message 880; default 1.0 used.
+Warning: Signals[316]: invalid Minimum 'NEO' for 'EPAS_handsOnLevel' in message 880; left empty.
+Warning: Signals[317]: unknown ByteOrder '@0+' for signal 'EPAS_internalSAS' in message 880; defaulting to 1 (Intel).
+Warning: Signals[317]: invalid Factor '[0|0]' for 'EPAS_internalSAS' in message 880; default 1.0 used.
+Warning: Signals[317]: invalid Offset 'deg' for 'EPAS_internalSAS' in message 880; default 0.0 used.
+Warning: Signals[317]: invalid Minimum 'NEO' for 'EPAS_internalSAS' in message 880; left empty.
+Warning: Signals[318]: unknown ByteOrder '@0+' for signal 'EPAS_steeringFault' in message 880; defaulting to 1 (Intel).
+Warning: Signals[318]: invalid Factor '[-1|2]' for 'EPAS_steeringFault' in message 880; default 1.0 used.
+Warning: Signals[318]: invalid Minimum 'NEO' for 'EPAS_steeringFault' in message 880; left empty.
+Warning: Signals[319]: unknown ByteOrder '@0+' for signal 'EPAS_steeringRackForce' in message 880; defaulting to 1 (Intel).
+Warning: Signals[319]: invalid Factor '[0|0]' for 'EPAS_steeringRackForce' in message 880; default 1.0 used.
+Warning: Signals[319]: invalid Offset 'N' for 'EPAS_steeringRackForce' in message 880; default 0.0 used.
+Warning: Signals[319]: invalid Minimum 'NEO' for 'EPAS_steeringRackForce' in message 880; left empty.
+Warning: Signals[320]: unknown ByteOrder '@0+' for signal 'EPAS_steeringReduced' in message 880; defaulting to 1 (Intel).
+Warning: Signals[320]: invalid Factor '[-1|2]' for 'EPAS_steeringReduced' in message 880; default 1.0 used.
+Warning: Signals[320]: invalid Minimum 'NEO' for 'EPAS_steeringReduced' in message 880; left empty.
+Warning: Signals[321]: unknown ByteOrder '@0+' for signal 'EPAS_sysStatusChecksum' in message 880; defaulting to 1 (Intel).
+Warning: Signals[321]: invalid Factor '[0|255]' for 'EPAS_sysStatusChecksum' in message 880; default 1.0 used.
+Warning: Signals[321]: invalid Minimum 'NEO' for 'EPAS_sysStatusChecksum' in message 880; left empty.
+Warning: Signals[322]: unknown ByteOrder '@0+' for signal 'EPAS_sysStatusCounter' in message 880; defaulting to 1 (Intel).
+Warning: Signals[322]: invalid Factor '[0|15]' for 'EPAS_sysStatusCounter' in message 880; default 1.0 used.
+Warning: Signals[322]: invalid Minimum 'NEO' for 'EPAS_sysStatusCounter' in message 880; left empty.
+Warning: Signals[323]: unknown ByteOrder '@0+' for signal 'EPAS_torsionBarTorque' in message 880; defaulting to 1 (Intel).
+Warning: Signals[323]: invalid Factor '[0|0]' for 'EPAS_torsionBarTorque' in message 880; default 1.0 used.
+Warning: Signals[323]: invalid Offset 'Nm' for 'EPAS_torsionBarTorque' in message 880; default 0.0 used.
+Warning: Signals[323]: invalid Minimum 'NEO' for 'EPAS_torsionBarTorque' in message 880; left empty.
+Warning: Signals[324]: unknown ByteOrder '@1+' for signal 'MCU_clusterBacklightOn' in message 904; defaulting to 1 (Intel).
+Warning: Signals[324]: invalid Factor '[0|1]' for 'MCU_clusterBacklightOn' in message 904; default 1.0 used.
+Warning: Signals[324]: invalid Minimum 'NEO' for 'MCU_clusterBacklightOn' in message 904; left empty.
+Warning: Signals[325]: unknown ByteOrder '@1+' for signal 'MCU_clusterBrightnessLevel' in message 904; defaulting to 1 (Intel).
+Warning: Signals[325]: invalid Factor '[0|127.5]' for 'MCU_clusterBrightnessLevel' in message 904; default 1.0 used.
+Warning: Signals[325]: invalid Offset '%' for 'MCU_clusterBrightnessLevel' in message 904; default 0.0 used.
+Warning: Signals[325]: invalid Minimum 'NEO' for 'MCU_clusterBrightnessLevel' in message 904; left empty.
+Warning: Signals[326]: unknown ByteOrder '@1+' for signal 'MCU_clusterReadyForDrive' in message 904; defaulting to 1 (Intel).
+Warning: Signals[326]: invalid Factor '[-1|2]' for 'MCU_clusterReadyForDrive' in message 904; default 1.0 used.
+Warning: Signals[326]: invalid Minimum 'NEO' for 'MCU_clusterReadyForDrive' in message 904; left empty.
+Warning: Signals[327]: unknown ByteOrder '@1+' for signal 'MCU_clusterReadyForPowerOff' in message 904; defaulting to 1 (Intel).
+Warning: Signals[327]: invalid Factor '[0|1]' for 'MCU_clusterReadyForPowerOff' in message 904; default 1.0 used.
+Warning: Signals[327]: invalid Minimum 'NEO' for 'MCU_clusterReadyForPowerOff' in message 904; left empty.
+Warning: Signals[328]: unknown ByteOrder '@0+' for signal 'GTW_performanceConfig' in message 920; defaulting to 1 (Intel).
+Warning: Signals[328]: invalid Factor '[0|0]' for 'GTW_performanceConfig' in message 920; default 1.0 used.
+Warning: Signals[328]: invalid Minimum 'NEO' for 'GTW_performanceConfig' in message 920; left empty.
+Warning: Signals[329]: unknown ByteOrder '@0+' for signal 'GTW_fourWheelDrive' in message 920; defaulting to 1 (Intel).
+Warning: Signals[329]: invalid Factor '[0|0]' for 'GTW_fourWheelDrive' in message 920; default 1.0 used.
+Warning: Signals[329]: invalid Minimum 'NEO' for 'GTW_fourWheelDrive' in message 920; left empty.
+Warning: Signals[330]: unknown ByteOrder '@0+' for signal 'GTW_unknown1' in message 920; defaulting to 1 (Intel).
+Warning: Signals[330]: invalid Factor '[0|0]' for 'GTW_unknown1' in message 920; default 1.0 used.
+Warning: Signals[330]: invalid Minimum 'NEO' for 'GTW_unknown1' in message 920; left empty.
+Warning: Signals[331]: unknown ByteOrder '@0+' for signal 'GTW_dasHw' in message 920; defaulting to 1 (Intel).
+Warning: Signals[331]: invalid Factor '[0|0]' for 'GTW_dasHw' in message 920; default 1.0 used.
+Warning: Signals[331]: invalid Minimum 'NEO' for 'GTW_dasHw' in message 920; left empty.
+Warning: Signals[332]: unknown ByteOrder '@0+' for signal 'GTW_parkAssistInstalled' in message 920; defaulting to 1 (Intel).
+Warning: Signals[332]: invalid Factor '[0|0]' for 'GTW_parkAssistInstalled' in message 920; default 1.0 used.
+Warning: Signals[332]: invalid Minimum 'NEO' for 'GTW_parkAssistInstalled' in message 920; left empty.
+Warning: Signals[333]: unknown ByteOrder '@0+' for signal 'GTW_forwardRadarHw' in message 920; defaulting to 1 (Intel).
+Warning: Signals[333]: invalid Factor '[0|0]' for 'GTW_forwardRadarHw' in message 920; default 1.0 used.
+Warning: Signals[333]: invalid Minimum 'NEO' for 'GTW_forwardRadarHw' in message 920; left empty.
+Warning: Signals[334]: unknown ByteOrder '@0+' for signal 'GTW_airSuspensionInstalled' in message 920; defaulting to 1 (Intel).
+Warning: Signals[334]: invalid Factor '[0|0]' for 'GTW_airSuspensionInstalled' in message 920; default 1.0 used.
+Warning: Signals[334]: invalid Minimum 'NEO' for 'GTW_airSuspensionInstalled' in message 920; left empty.
+Warning: Signals[335]: unknown ByteOrder '@0+' for signal 'GTW_unknown2' in message 920; defaulting to 1 (Intel).
+Warning: Signals[335]: invalid Factor '[0|0]' for 'GTW_unknown2' in message 920; default 1.0 used.
+Warning: Signals[335]: invalid Minimum 'NEO' for 'GTW_unknown2' in message 920; left empty.
+Warning: Signals[336]: unknown ByteOrder '@0+' for signal 'GTW_country' in message 920; defaulting to 1 (Intel).
+Warning: Signals[336]: invalid Factor '[0|0]' for 'GTW_country' in message 920; default 1.0 used.
+Warning: Signals[336]: invalid Minimum 'NEO' for 'GTW_country' in message 920; left empty.
+Warning: Signals[337]: unknown ByteOrder '@0+' for signal 'GTW_parkSensorGeometryType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[337]: invalid Factor '[0|0]' for 'GTW_parkSensorGeometryType' in message 920; default 1.0 used.
+Warning: Signals[337]: invalid Minimum 'NEO' for 'GTW_parkSensorGeometryType' in message 920; left empty.
+Warning: Signals[338]: unknown ByteOrder '@0+' for signal 'GTW_rhd' in message 920; defaulting to 1 (Intel).
+Warning: Signals[338]: invalid Factor '[0|0]' for 'GTW_rhd' in message 920; default 1.0 used.
+Warning: Signals[338]: invalid Minimum 'NEO' for 'GTW_rhd' in message 920; left empty.
+Warning: Signals[339]: unknown ByteOrder '@0+' for signal 'GTW_bodyControlsType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[339]: invalid Factor '[0|0]' for 'GTW_bodyControlsType' in message 920; default 1.0 used.
+Warning: Signals[339]: invalid Minimum 'NEO' for 'GTW_bodyControlsType' in message 920; left empty.
+Warning: Signals[340]: unknown ByteOrder '@0+' for signal 'GTW_radarPosition' in message 920; defaulting to 1 (Intel).
+Warning: Signals[340]: invalid Factor '[0|0]' for 'GTW_radarPosition' in message 920; default 1.0 used.
+Warning: Signals[340]: invalid Minimum 'NEO' for 'GTW_radarPosition' in message 920; left empty.
+Warning: Signals[341]: unknown ByteOrder '@0+' for signal 'GTW_rearCornerRadarHw' in message 920; defaulting to 1 (Intel).
+Warning: Signals[341]: invalid Factor '[0|0]' for 'GTW_rearCornerRadarHw' in message 920; default 1.0 used.
+Warning: Signals[341]: invalid Minimum 'NEO' for 'GTW_rearCornerRadarHw' in message 920; left empty.
+Warning: Signals[342]: unknown ByteOrder '@0+' for signal 'GTW_frontCornerRadarHw' in message 920; defaulting to 1 (Intel).
+Warning: Signals[342]: invalid Factor '[0|0]' for 'GTW_frontCornerRadarHw' in message 920; default 1.0 used.
+Warning: Signals[342]: invalid Minimum 'NEO' for 'GTW_frontCornerRadarHw' in message 920; left empty.
+Warning: Signals[343]: unknown ByteOrder '@0+' for signal 'GTW_epasType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[343]: invalid Factor '[0|0]' for 'GTW_epasType' in message 920; default 1.0 used.
+Warning: Signals[343]: invalid Minimum 'NEO' for 'GTW_epasType' in message 920; left empty.
+Warning: Signals[344]: unknown ByteOrder '@0+' for signal 'GTW_chassisType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[344]: invalid Factor '[0|2]' for 'GTW_chassisType' in message 920; default 1.0 used.
+Warning: Signals[344]: invalid Minimum 'NEO' for 'GTW_chassisType' in message 920; left empty.
+Warning: Signals[345]: unknown ByteOrder '@0+' for signal 'GTW_wheelType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[345]: invalid Factor '[0|0]' for 'GTW_wheelType' in message 920; default 1.0 used.
+Warning: Signals[345]: invalid Minimum 'NEO' for 'GTW_wheelType' in message 920; left empty.
+Warning: Signals[346]: unknown ByteOrder '@0+' for signal 'GTW_rearSeatControllerMask' in message 920; defaulting to 1 (Intel).
+Warning: Signals[346]: invalid Factor '[0|7]' for 'GTW_rearSeatControllerMask' in message 920; default 1.0 used.
+Warning: Signals[346]: invalid Minimum 'NEO' for 'GTW_rearSeatControllerMask' in message 920; left empty.
+Warning: Signals[347]: unknown ByteOrder '@0+' for signal 'GTW_euVehicle' in message 920; defaulting to 1 (Intel).
+Warning: Signals[347]: invalid Factor '[0|0]' for 'GTW_euVehicle' in message 920; default 1.0 used.
+Warning: Signals[347]: invalid Minimum 'NEO' for 'GTW_euVehicle' in message 920; left empty.
+Warning: Signals[348]: unknown ByteOrder '@0+' for signal 'GTW_foldingMirrorsInstalled' in message 920; defaulting to 1 (Intel).
+Warning: Signals[348]: invalid Factor '[0|0]' for 'GTW_foldingMirrorsInstalled' in message 920; default 1.0 used.
+Warning: Signals[348]: invalid Minimum 'NEO' for 'GTW_foldingMirrorsInstalled' in message 920; left empty.
+Warning: Signals[349]: unknown ByteOrder '@0+' for signal 'GTW_brakeHwType' in message 920; defaulting to 1 (Intel).
+Warning: Signals[349]: invalid Factor '[0|2]' for 'GTW_brakeHwType' in message 920; default 1.0 used.
+Warning: Signals[349]: invalid Minimum 'NEO' for 'GTW_brakeHwType' in message 920; left empty.
+Warning: Signals[350]: unknown ByteOrder '@0+' for signal 'GTW_autopilot' in message 920; defaulting to 1 (Intel).
+Warning: Signals[350]: invalid Factor '[0|0]' for 'GTW_autopilot' in message 920; default 1.0 used.
+Warning: Signals[350]: invalid Minimum 'NEO' for 'GTW_autopilot' in message 920; left empty.
+Warning: Signals[351]: unknown ByteOrder '@0+' for signal 'GTW_unknown3' in message 920; defaulting to 1 (Intel).
+Warning: Signals[351]: invalid Factor '[0|0]' for 'GTW_unknown3' in message 920; default 1.0 used.
+Warning: Signals[351]: invalid Minimum 'NEO' for 'GTW_unknown3' in message 920; left empty.
+Warning: Signals[352]: unknown ByteOrder '@1+' for signal 'autopilotStatus' in message 921; defaulting to 1 (Intel).
+Warning: Signals[352]: invalid Factor '[0|0]' for 'autopilotStatus' in message 921; default 1.0 used.
+Warning: Signals[352]: invalid Minimum 'XXX' for 'autopilotStatus' in message 921; left empty.
+Warning: Signals[353]: unknown ByteOrder '@1+' for signal 'UI_mapSpeedLimitDependency' in message 968; defaulting to 1 (Intel).
+Warning: Signals[353]: invalid Factor '[0|0]' for 'UI_mapSpeedLimitDependency' in message 968; default 1.0 used.
+Warning: Signals[353]: invalid Minimum 'DAS' for 'UI_mapSpeedLimitDependency' in message 968; left empty.
+Warning: Signals[354]: unknown ByteOrder '@1+' for signal 'UI_roadClass' in message 968; defaulting to 1 (Intel).
+Warning: Signals[354]: invalid Factor '[0|0]' for 'UI_roadClass' in message 968; default 1.0 used.
+Warning: Signals[354]: invalid Minimum 'DAS' for 'UI_roadClass' in message 968; left empty.
+Warning: Signals[355]: unknown ByteOrder '@1+' for signal 'UI_inSuperchargerGeofence' in message 968; defaulting to 1 (Intel).
+Warning: Signals[355]: invalid Factor '[0|0]' for 'UI_inSuperchargerGeofence' in message 968; default 1.0 used.
+Warning: Signals[355]: invalid Minimum 'DAS' for 'UI_inSuperchargerGeofence' in message 968; left empty.
+Warning: Signals[356]: unknown ByteOrder '@1+' for signal 'UI_mapSpeedUnits' in message 968; defaulting to 1 (Intel).
+Warning: Signals[356]: invalid Factor '[0|0]' for 'UI_mapSpeedUnits' in message 968; default 1.0 used.
+Warning: Signals[356]: invalid Minimum 'DAS' for 'UI_mapSpeedUnits' in message 968; left empty.
+Warning: Signals[357]: unknown ByteOrder '@1+' for signal 'UI_mapSpeedLimit' in message 968; defaulting to 1 (Intel).
+Warning: Signals[357]: invalid Factor '[0|0]' for 'UI_mapSpeedLimit' in message 968; default 1.0 used.
+Warning: Signals[357]: invalid Minimum 'DAS' for 'UI_mapSpeedLimit' in message 968; left empty.
+Warning: Signals[358]: unknown ByteOrder '@1+' for signal 'UI_mapSpeedLimitType' in message 968; defaulting to 1 (Intel).
+Warning: Signals[358]: invalid Factor '[0|0]' for 'UI_mapSpeedLimitType' in message 968; default 1.0 used.
+Warning: Signals[358]: invalid Minimum 'DAS' for 'UI_mapSpeedLimitType' in message 968; left empty.
+Warning: Signals[359]: unknown ByteOrder '@1+' for signal 'UI_countryCode' in message 968; defaulting to 1 (Intel).
+Warning: Signals[359]: invalid Factor '[0|0]' for 'UI_countryCode' in message 968; default 1.0 used.
+Warning: Signals[359]: invalid Minimum 'DAS' for 'UI_countryCode' in message 968; left empty.
+Warning: Signals[360]: unknown ByteOrder '@1+' for signal 'UI_streetCount' in message 968; defaulting to 1 (Intel).
+Warning: Signals[360]: invalid Factor '[0|0]' for 'UI_streetCount' in message 968; default 1.0 used.
+Warning: Signals[360]: invalid Minimum 'DAS' for 'UI_streetCount' in message 968; left empty.
+Warning: Signals[361]: unknown ByteOrder '@1+' for signal 'UI_gpsRoadMatch' in message 968; defaulting to 1 (Intel).
+Warning: Signals[361]: invalid Factor '[0|0]' for 'UI_gpsRoadMatch' in message 968; default 1.0 used.
+Warning: Signals[361]: invalid Minimum 'DAS' for 'UI_gpsRoadMatch' in message 968; left empty.
+Warning: Signals[362]: unknown ByteOrder '@1+' for signal 'UI_navRouteActive' in message 968; defaulting to 1 (Intel).
+Warning: Signals[362]: invalid Factor '[0|0]' for 'UI_navRouteActive' in message 968; default 1.0 used.
+Warning: Signals[362]: invalid Minimum 'DAS' for 'UI_navRouteActive' in message 968; left empty.
+Warning: Signals[363]: unknown ByteOrder '@1+' for signal 'UI_parallelAutoparkEnabled' in message 968; defaulting to 1 (Intel).
+Warning: Signals[363]: invalid Factor '[0|1]' for 'UI_parallelAutoparkEnabled' in message 968; default 1.0 used.
+Warning: Signals[363]: invalid Minimum 'DAS' for 'UI_parallelAutoparkEnabled' in message 968; left empty.
+Warning: Signals[364]: unknown ByteOrder '@1+' for signal 'UI_perpendicularAutoparkEnabled' in message 968; defaulting to 1 (Intel).
+Warning: Signals[364]: invalid Factor '[0|1]' for 'UI_perpendicularAutoparkEnabled' in message 968; default 1.0 used.
+Warning: Signals[364]: invalid Minimum 'DAS' for 'UI_perpendicularAutoparkEnabled' in message 968; left empty.
+Warning: Signals[365]: unknown ByteOrder '@1+' for signal 'UI_nextBranchDist' in message 968; defaulting to 1 (Intel).
+Warning: Signals[365]: invalid Factor '[0|300]' for 'UI_nextBranchDist' in message 968; default 1.0 used.
+Warning: Signals[365]: invalid Offset 'm' for 'UI_nextBranchDist' in message 968; default 0.0 used.
+Warning: Signals[365]: invalid Minimum 'DAS' for 'UI_nextBranchDist' in message 968; left empty.
+Warning: Signals[366]: unknown ByteOrder '@1+' for signal 'UI_controlledAccess' in message 968; defaulting to 1 (Intel).
+Warning: Signals[366]: invalid Factor '[0|0]' for 'UI_controlledAccess' in message 968; default 1.0 used.
+Warning: Signals[366]: invalid Minimum 'DAS' for 'UI_controlledAccess' in message 968; left empty.
+Warning: Signals[367]: unknown ByteOrder '@1+' for signal 'UI_nextBranchLeftOffRamp' in message 968; defaulting to 1 (Intel).
+Warning: Signals[367]: invalid Factor '[0|0]' for 'UI_nextBranchLeftOffRamp' in message 968; default 1.0 used.
+Warning: Signals[367]: invalid Minimum 'DAS' for 'UI_nextBranchLeftOffRamp' in message 968; left empty.
+Warning: Signals[368]: unknown ByteOrder '@1+' for signal 'UI_nextBranchRightOffRamp' in message 968; defaulting to 1 (Intel).
+Warning: Signals[368]: invalid Factor '[0|0]' for 'UI_nextBranchRightOffRamp' in message 968; default 1.0 used.
+Warning: Signals[368]: invalid Minimum 'DAS' for 'UI_nextBranchRightOffRamp' in message 968; left empty.
+Warning: Signals[369]: unknown ByteOrder '@1+' for signal 'UI_rejectLeftLane' in message 968; defaulting to 1 (Intel).
+Warning: Signals[369]: invalid Factor '[0|0]' for 'UI_rejectLeftLane' in message 968; default 1.0 used.
+Warning: Signals[369]: invalid Minimum 'DAS' for 'UI_rejectLeftLane' in message 968; left empty.
+Warning: Signals[370]: unknown ByteOrder '@1+' for signal 'UI_rejectRightLane' in message 968; defaulting to 1 (Intel).
+Warning: Signals[370]: invalid Factor '[0|0]' for 'UI_rejectRightLane' in message 968; default 1.0 used.
+Warning: Signals[370]: invalid Minimum 'DAS' for 'UI_rejectRightLane' in message 968; left empty.
+Warning: Signals[371]: unknown ByteOrder '@1+' for signal 'UI_rejectHPP' in message 968; defaulting to 1 (Intel).
+Warning: Signals[371]: invalid Factor '[0|0]' for 'UI_rejectHPP' in message 968; default 1.0 used.
+Warning: Signals[371]: invalid Minimum 'DAS' for 'UI_rejectHPP' in message 968; left empty.
+Warning: Signals[372]: unknown ByteOrder '@1+' for signal 'UI_rejectNav' in message 968; defaulting to 1 (Intel).
+Warning: Signals[372]: invalid Factor '[0|0]' for 'UI_rejectNav' in message 968; default 1.0 used.
+Warning: Signals[372]: invalid Minimum 'DAS' for 'UI_rejectNav' in message 968; left empty.
+Warning: Signals[373]: unknown ByteOrder '@1+' for signal 'UI_rejectLeftFreeSpace' in message 968; defaulting to 1 (Intel).
+Warning: Signals[373]: invalid Factor '[0|0]' for 'UI_rejectLeftFreeSpace' in message 968; default 1.0 used.
+Warning: Signals[373]: invalid Minimum 'DAS' for 'UI_rejectLeftFreeSpace' in message 968; left empty.
+Warning: Signals[374]: unknown ByteOrder '@1+' for signal 'UI_rejectRightFreeSpace' in message 968; defaulting to 1 (Intel).
+Warning: Signals[374]: invalid Factor '[0|0]' for 'UI_rejectRightFreeSpace' in message 968; default 1.0 used.
+Warning: Signals[374]: invalid Minimum 'DAS' for 'UI_rejectRightFreeSpace' in message 968; left empty.
+Warning: Signals[375]: unknown ByteOrder '@1+' for signal 'UI_rejectAutosteer' in message 968; defaulting to 1 (Intel).
+Warning: Signals[375]: invalid Factor '[0|0]' for 'UI_rejectAutosteer' in message 968; default 1.0 used.
+Warning: Signals[375]: invalid Minimum 'DAS' for 'UI_rejectAutosteer' in message 968; left empty.
+Warning: Signals[376]: unknown ByteOrder '@1+' for signal 'UI_rejectHandsOn' in message 968; defaulting to 1 (Intel).
+Warning: Signals[376]: invalid Factor '[0|0]' for 'UI_rejectHandsOn' in message 968; default 1.0 used.
+Warning: Signals[376]: invalid Minimum 'DAS' for 'UI_rejectHandsOn' in message 968; left empty.
+Warning: Signals[377]: unknown ByteOrder '@1+' for signal 'UI_acceptBottsDots' in message 968; defaulting to 1 (Intel).
+Warning: Signals[377]: invalid Factor '[0|0]' for 'UI_acceptBottsDots' in message 968; default 1.0 used.
+Warning: Signals[377]: invalid Minimum 'DAS' for 'UI_acceptBottsDots' in message 968; left empty.
+Warning: Signals[378]: unknown ByteOrder '@1+' for signal 'UI_autosteerRestricted' in message 968; defaulting to 1 (Intel).
+Warning: Signals[378]: invalid Factor '[0|0]' for 'UI_autosteerRestricted' in message 968; default 1.0 used.
+Warning: Signals[378]: invalid Minimum 'DAS' for 'UI_autosteerRestricted' in message 968; left empty.
+Warning: Signals[379]: unknown ByteOrder '@1+' for signal 'UI_pmmEnabled' in message 968; defaulting to 1 (Intel).
+Warning: Signals[379]: invalid Factor '[0|0]' for 'UI_pmmEnabled' in message 968; default 1.0 used.
+Warning: Signals[379]: invalid Minimum 'DAS' for 'UI_pmmEnabled' in message 968; left empty.
+Warning: Signals[380]: unknown ByteOrder '@1+' for signal 'UI_scaEnabled' in message 968; defaulting to 1 (Intel).
+Warning: Signals[380]: invalid Factor '[0|0]' for 'UI_scaEnabled' in message 968; default 1.0 used.
+Warning: Signals[380]: invalid Minimum 'DAS' for 'UI_scaEnabled' in message 968; left empty.
+Warning: Signals[381]: unknown ByteOrder '@1+' for signal 'UI_mapDataCounter' in message 968; defaulting to 1 (Intel).
+Warning: Signals[381]: invalid Factor '[0|0]' for 'UI_mapDataCounter' in message 968; default 1.0 used.
+Warning: Signals[381]: invalid Minimum 'DAS' for 'UI_mapDataCounter' in message 968; left empty.
+Warning: Signals[382]: unknown ByteOrder '@1+' for signal 'UI_mapDataChecksum' in message 968; defaulting to 1 (Intel).
+Warning: Signals[382]: invalid Factor '[0|0]' for 'UI_mapDataChecksum' in message 968; default 1.0 used.
+Warning: Signals[382]: invalid Minimum 'DAS' for 'UI_mapDataChecksum' in message 968; left empty.
+Warning: Signals[383]: unknown ByteOrder '@1+' for signal 'MCU_gpsAccuracy' in message 984; defaulting to 1 (Intel).
+Warning: Signals[383]: invalid Factor '[0|0]' for 'MCU_gpsAccuracy' in message 984; default 1.0 used.
+Warning: Signals[383]: invalid Offset 'm' for 'MCU_gpsAccuracy' in message 984; default 0.0 used.
+Warning: Signals[383]: invalid Minimum 'NEO' for 'MCU_gpsAccuracy' in message 984; left empty.
+Warning: Signals[384]: unknown ByteOrder '@1-' for signal 'MCU_latitude' in message 984; defaulting to 1 (Intel).
+Warning: Signals[384]: invalid Factor '[0|0]' for 'MCU_latitude' in message 984; default 1.0 used.
+Warning: Signals[384]: invalid Offset 'deg' for 'MCU_latitude' in message 984; default 0.0 used.
+Warning: Signals[384]: invalid Minimum 'NEO' for 'MCU_latitude' in message 984; left empty.
+Warning: Signals[385]: unknown ByteOrder '@1-' for signal 'MCU_longitude' in message 984; defaulting to 1 (Intel).
+Warning: Signals[385]: invalid Factor '[0|0]' for 'MCU_longitude' in message 984; default 1.0 used.
+Warning: Signals[385]: invalid Offset 'deg' for 'MCU_longitude' in message 984; default 0.0 used.
+Warning: Signals[385]: invalid Minimum 'NEO' for 'MCU_longitude' in message 984; left empty.
+Warning: Signals[386]: unknown ByteOrder '@1+' for signal 'UI_autopilotControlRequest' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[386]: invalid Factor '[0|1]' for 'UI_autopilotControlRequest' in message 1000; default 1.0 used.
+Warning: Signals[386]: invalid Minimum 'DAS' for 'UI_autopilotControlRequest' in message 1000; left empty.
+Warning: Signals[387]: unknown ByteOrder '@1+' for signal 'UI_ulcStalkConfirm' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[387]: invalid Factor '[0|1]' for 'UI_ulcStalkConfirm' in message 1000; default 1.0 used.
+Warning: Signals[387]: invalid Minimum 'DAS' for 'UI_ulcStalkConfirm' in message 1000; left empty.
+Warning: Signals[388]: unknown ByteOrder '@1+' for signal 'UI_summonHeartbeat' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[388]: invalid Factor '[0|0]' for 'UI_summonHeartbeat' in message 1000; default 1.0 used.
+Warning: Signals[388]: invalid Minimum 'DAS' for 'UI_summonHeartbeat' in message 1000; left empty.
+Warning: Signals[389]: unknown ByteOrder '@1+' for signal 'UI_curvSpeedAdaptDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[389]: invalid Factor '[0|0]' for 'UI_curvSpeedAdaptDisable' in message 1000; default 1.0 used.
+Warning: Signals[389]: invalid Minimum 'DAS' for 'UI_curvSpeedAdaptDisable' in message 1000; left empty.
+Warning: Signals[390]: unknown ByteOrder '@1+' for signal 'UI_dasDeveloper' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[390]: invalid Factor '[0|0]' for 'UI_dasDeveloper' in message 1000; default 1.0 used.
+Warning: Signals[390]: invalid Minimum 'DAS' for 'UI_dasDeveloper' in message 1000; left empty.
+Warning: Signals[391]: unknown ByteOrder '@1+' for signal 'UI_enableVinAssociation' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[391]: invalid Factor '[0|0]' for 'UI_enableVinAssociation' in message 1000; default 1.0 used.
+Warning: Signals[391]: invalid Minimum 'DAS' for 'UI_enableVinAssociation' in message 1000; left empty.
+Warning: Signals[392]: unknown ByteOrder '@1+' for signal 'UI_lssLkaEnabled' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[392]: invalid Factor '[0|0]' for 'UI_lssLkaEnabled' in message 1000; default 1.0 used.
+Warning: Signals[392]: invalid Minimum 'DAS' for 'UI_lssLkaEnabled' in message 1000; left empty.
+Warning: Signals[393]: unknown ByteOrder '@1+' for signal 'UI_lssLdwEnabled' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[393]: invalid Factor '[0|0]' for 'UI_lssLdwEnabled' in message 1000; default 1.0 used.
+Warning: Signals[393]: invalid Minimum 'DAS' for 'UI_lssLdwEnabled' in message 1000; left empty.
+Warning: Signals[394]: unknown ByteOrder '@1+' for signal 'UI_autoSummonEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[394]: invalid Factor '[0|1]' for 'UI_autoSummonEnable' in message 1000; default 1.0 used.
+Warning: Signals[394]: invalid Minimum 'DAS' for 'UI_autoSummonEnable' in message 1000; left empty.
+Warning: Signals[395]: unknown ByteOrder '@1+' for signal 'UI_exceptionListEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[395]: invalid Factor '[0|1]' for 'UI_exceptionListEnable' in message 1000; default 1.0 used.
+Warning: Signals[395]: invalid Minimum 'APP' for 'UI_exceptionListEnable' in message 1000; left empty.
+Warning: Signals[396]: unknown ByteOrder '@1+' for signal 'UI_roadCheckDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[396]: invalid Factor '[0|0]' for 'UI_roadCheckDisable' in message 1000; default 1.0 used.
+Warning: Signals[396]: invalid Minimum 'DAS' for 'UI_roadCheckDisable' in message 1000; left empty.
+Warning: Signals[397]: unknown ByteOrder '@1+' for signal 'UI_driveOnMapsEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[397]: invalid Factor '[0|0]' for 'UI_driveOnMapsEnable' in message 1000; default 1.0 used.
+Warning: Signals[397]: invalid Minimum 'DAS' for 'UI_driveOnMapsEnable' in message 1000; left empty.
+Warning: Signals[398]: unknown ByteOrder '@1+' for signal 'UI_handsOnRequirementDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[398]: invalid Factor '[0|0]' for 'UI_handsOnRequirementDisable' in message 1000; default 1.0 used.
+Warning: Signals[398]: invalid Minimum 'DAS' for 'UI_handsOnRequirementDisable' in message 1000; left empty.
+Warning: Signals[399]: unknown ByteOrder '@1+' for signal 'UI_forksEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[399]: invalid Factor '[0|0]' for 'UI_forksEnable' in message 1000; default 1.0 used.
+Warning: Signals[399]: invalid Minimum 'DAS' for 'UI_forksEnable' in message 1000; left empty.
+Warning: Signals[400]: unknown ByteOrder '@1+' for signal 'UI_fuseLanesDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[400]: invalid Factor '[0|0]' for 'UI_fuseLanesDisable' in message 1000; default 1.0 used.
+Warning: Signals[400]: invalid Minimum 'DAS' for 'UI_fuseLanesDisable' in message 1000; left empty.
+Warning: Signals[401]: unknown ByteOrder '@1+' for signal 'UI_fuseHPPDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[401]: invalid Factor '[0|0]' for 'UI_fuseHPPDisable' in message 1000; default 1.0 used.
+Warning: Signals[401]: invalid Minimum 'DAS' for 'UI_fuseHPPDisable' in message 1000; left empty.
+Warning: Signals[402]: unknown ByteOrder '@1+' for signal 'UI_fuseVehiclesDisable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[402]: invalid Factor '[0|0]' for 'UI_fuseVehiclesDisable' in message 1000; default 1.0 used.
+Warning: Signals[402]: invalid Minimum 'DAS' for 'UI_fuseVehiclesDisable' in message 1000; left empty.
+Warning: Signals[403]: unknown ByteOrder '@1+' for signal 'UI_enableNextGenACC' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[403]: invalid Factor '[0|1]' for 'UI_enableNextGenACC' in message 1000; default 1.0 used.
+Warning: Signals[403]: invalid Minimum 'APP' for 'UI_enableNextGenACC' in message 1000; left empty.
+Warning: Signals[404]: unknown ByteOrder '@1+' for signal 'UI_visionSpeedType' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[404]: invalid Factor '[0|0]' for 'UI_visionSpeedType' in message 1000; default 1.0 used.
+Warning: Signals[404]: invalid Minimum 'APP' for 'UI_visionSpeedType' in message 1000; left empty.
+Warning: Signals[405]: unknown ByteOrder '@1+' for signal 'UI_curvatureDatabaseOnly' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[405]: invalid Factor '[0|0]' for 'UI_curvatureDatabaseOnly' in message 1000; default 1.0 used.
+Warning: Signals[405]: invalid Minimum 'DAS' for 'UI_curvatureDatabaseOnly' in message 1000; left empty.
+Warning: Signals[406]: unknown ByteOrder '@1+' for signal 'UI_lssElkEnabled' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[406]: invalid Factor '[0|0]' for 'UI_lssElkEnabled' in message 1000; default 1.0 used.
+Warning: Signals[406]: invalid Minimum 'DAS' for 'UI_lssElkEnabled' in message 1000; left empty.
+Warning: Signals[407]: unknown ByteOrder '@1+' for signal 'UI_summonExitType' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[407]: invalid Factor '[0|3]' for 'UI_summonExitType' in message 1000; default 1.0 used.
+Warning: Signals[407]: invalid Minimum 'DAS' for 'UI_summonExitType' in message 1000; left empty.
+Warning: Signals[408]: unknown ByteOrder '@1+' for signal 'UI_summonEntryType' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[408]: invalid Factor '[0|3]' for 'UI_summonEntryType' in message 1000; default 1.0 used.
+Warning: Signals[408]: invalid Minimum 'DAS' for 'UI_summonEntryType' in message 1000; left empty.
+Warning: Signals[409]: unknown ByteOrder '@1+' for signal 'UI_selfParkRequest' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[409]: invalid Factor '[0|15]' for 'UI_selfParkRequest' in message 1000; default 1.0 used.
+Warning: Signals[409]: invalid Minimum 'DAS , PARK' for 'UI_selfParkRequest' in message 1000; left empty.
+Warning: Signals[410]: unknown ByteOrder '@1+' for signal 'UI_summonReverseDist' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[410]: invalid Factor '[0|63]' for 'UI_summonReverseDist' in message 1000; default 1.0 used.
+Warning: Signals[410]: invalid Minimum 'DAS' for 'UI_summonReverseDist' in message 1000; left empty.
+Warning: Signals[411]: unknown ByteOrder '@1+' for signal 'UI_undertakeAssistEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[411]: invalid Factor '[0|0]' for 'UI_undertakeAssistEnable' in message 1000; default 1.0 used.
+Warning: Signals[411]: invalid Minimum 'DAS' for 'UI_undertakeAssistEnable' in message 1000; left empty.
+Warning: Signals[412]: unknown ByteOrder '@1+' for signal 'UI_adaptiveSetSpeedEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[412]: invalid Factor '[0|0]' for 'UI_adaptiveSetSpeedEnable' in message 1000; default 1.0 used.
+Warning: Signals[412]: invalid Minimum 'DAS' for 'UI_adaptiveSetSpeedEnable' in message 1000; left empty.
+Warning: Signals[413]: unknown ByteOrder '@1+' for signal 'UI_drivingSide' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[413]: invalid Factor '[0|3]' for 'UI_drivingSide' in message 1000; default 1.0 used.
+Warning: Signals[413]: invalid Minimum 'DAS' for 'UI_drivingSide' in message 1000; left empty.
+Warning: Signals[414]: unknown ByteOrder '@1+' for signal 'UI_enableClipTelemetry' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[414]: invalid Factor '[0|0]' for 'UI_enableClipTelemetry' in message 1000; default 1.0 used.
+Warning: Signals[414]: invalid Minimum 'APP' for 'UI_enableClipTelemetry' in message 1000; left empty.
+Warning: Signals[415]: unknown ByteOrder '@1+' for signal 'UI_enableTripTelemetry' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[415]: invalid Factor '[0|0]' for 'UI_enableTripTelemetry' in message 1000; default 1.0 used.
+Warning: Signals[415]: invalid Minimum 'APP' for 'UI_enableTripTelemetry' in message 1000; left empty.
+Warning: Signals[416]: unknown ByteOrder '@1+' for signal 'UI_enableRoadSegmentTelemetry' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[416]: invalid Factor '[0|0]' for 'UI_enableRoadSegmentTelemetry' in message 1000; default 1.0 used.
+Warning: Signals[416]: invalid Minimum 'APP' for 'UI_enableRoadSegmentTelemetry' in message 1000; left empty.
+Warning: Signals[417]: unknown ByteOrder '@1+' for signal 'UI_followNavRouteEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[417]: invalid Factor '[0|0]' for 'UI_followNavRouteEnable' in message 1000; default 1.0 used.
+Warning: Signals[417]: invalid Minimum 'APP' for 'UI_followNavRouteEnable' in message 1000; left empty.
+Warning: Signals[418]: unknown ByteOrder '@1+' for signal 'UI_ulcSpeedConfig' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[418]: invalid Factor '[0|3]' for 'UI_ulcSpeedConfig' in message 1000; default 1.0 used.
+Warning: Signals[418]: invalid Minimum 'APP' for 'UI_ulcSpeedConfig' in message 1000; left empty.
+Warning: Signals[419]: unknown ByteOrder '@1+' for signal 'UI_ulcBlindSpotConfig' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[419]: invalid Factor '[0|3]' for 'UI_ulcBlindSpotConfig' in message 1000; default 1.0 used.
+Warning: Signals[419]: invalid Minimum 'APP' for 'UI_ulcBlindSpotConfig' in message 1000; left empty.
+Warning: Signals[420]: unknown ByteOrder '@1+' for signal 'UI_autopilotAlwaysOn' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[420]: invalid Factor '[0|1]' for 'UI_autopilotAlwaysOn' in message 1000; default 1.0 used.
+Warning: Signals[420]: invalid Minimum 'APP' for 'UI_autopilotAlwaysOn' in message 1000; left empty.
+Warning: Signals[421]: unknown ByteOrder '@1+' for signal 'UI_accFromZero' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[421]: invalid Factor '[0|1]' for 'UI_accFromZero' in message 1000; default 1.0 used.
+Warning: Signals[421]: invalid Minimum 'APP' for 'UI_accFromZero' in message 1000; left empty.
+Warning: Signals[422]: unknown ByteOrder '@1+' for signal 'UI_alcOffHighwayEnable' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[422]: invalid Factor '[0|1]' for 'UI_alcOffHighwayEnable' in message 1000; default 1.0 used.
+Warning: Signals[422]: invalid Minimum 'APP' for 'UI_alcOffHighwayEnable' in message 1000; left empty.
+Warning: Signals[423]: unknown ByteOrder '@1+' for signal 'UI_validationLoop' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[423]: invalid Factor '[0|1]' for 'UI_validationLoop' in message 1000; default 1.0 used.
+Warning: Signals[423]: invalid Minimum 'APP' for 'UI_validationLoop' in message 1000; left empty.
+Warning: Signals[424]: unknown ByteOrder '@1+' for signal 'UI_ulcOffHighway' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[424]: invalid Factor '[0|1]' for 'UI_ulcOffHighway' in message 1000; default 1.0 used.
+Warning: Signals[424]: invalid Minimum 'APP' for 'UI_ulcOffHighway' in message 1000; left empty.
+Warning: Signals[425]: unknown ByteOrder '@1+' for signal 'UI_enableNavRouteCSA' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[425]: invalid Factor '[0|1]' for 'UI_enableNavRouteCSA' in message 1000; default 1.0 used.
+Warning: Signals[425]: invalid Minimum 'APP' for 'UI_enableNavRouteCSA' in message 1000; left empty.
+Warning: Signals[426]: unknown ByteOrder '@1+' for signal 'UI_enableCutinExperiments' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[426]: invalid Factor '[0|1]' for 'UI_enableCutinExperiments' in message 1000; default 1.0 used.
+Warning: Signals[426]: invalid Minimum 'APP' for 'UI_enableCutinExperiments' in message 1000; left empty.
+Warning: Signals[427]: unknown ByteOrder '@1+' for signal 'UI_source3D' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[427]: invalid Factor '[0|7]' for 'UI_source3D' in message 1000; default 1.0 used.
+Warning: Signals[427]: invalid Minimum 'APP' for 'UI_source3D' in message 1000; left empty.
+Warning: Signals[428]: unknown ByteOrder '@1+' for signal 'UI_enableVisionOnlyStops' in message 1000; defaulting to 1 (Intel).
+Warning: Signals[428]: invalid Factor '[0|1]' for 'UI_enableVisionOnlyStops' in message 1000; default 1.0 used.
+Warning: Signals[428]: invalid Minimum 'APP' for 'UI_enableVisionOnlyStops' in message 1000; left empty.
+Warning: Signals[429]: unknown ByteOrder '@1+' for signal 'UI_autopilotControlIndex' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[429]: invalid Factor '[0|7]' for 'UI_autopilotControlIndex' in message 1006; default 1.0 used.
+Warning: Signals[429]: invalid Minimum 'APP , APS' for 'UI_autopilotControlIndex' in message 1006; left empty.
+Warning: Signals[430]: unknown ByteOrder '@1+' for signal 'UI_hovEnabled' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[430]: invalid Factor '[0|0]' for 'UI_hovEnabled' in message 1006; default 1.0 used.
+Warning: Signals[430]: invalid Minimum 'APP , APS' for 'UI_hovEnabled' in message 1006; left empty.
+Warning: Signals[431]: unknown ByteOrder '@1+' for signal 'UI_donDisableAutoWiperDuration' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[431]: invalid Factor '[0|0]' for 'UI_donDisableAutoWiperDuration' in message 1006; default 1.0 used.
+Warning: Signals[431]: invalid Minimum 'APP , APS' for 'UI_donDisableAutoWiperDuration' in message 1006; left empty.
+Warning: Signals[432]: unknown ByteOrder '@1+' for signal 'UI_donDisableOnAutoWiperSpeed' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[432]: invalid Factor '[0|0]' for 'UI_donDisableOnAutoWiperSpeed' in message 1006; default 1.0 used.
+Warning: Signals[432]: invalid Minimum 'APP , APS' for 'UI_donDisableOnAutoWiperSpeed' in message 1006; left empty.
+Warning: Signals[433]: unknown ByteOrder '@1+' for signal 'UI_blindspotMinSpeed' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[433]: invalid Factor '[0|0]' for 'UI_blindspotMinSpeed' in message 1006; default 1.0 used.
+Warning: Signals[433]: invalid Minimum 'APP , APS' for 'UI_blindspotMinSpeed' in message 1006; left empty.
+Warning: Signals[434]: unknown ByteOrder '@1+' for signal 'UI_blindspotDistance' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[434]: invalid Factor '[0|0]' for 'UI_blindspotDistance' in message 1006; default 1.0 used.
+Warning: Signals[434]: invalid Minimum 'APP , APS' for 'UI_blindspotDistance' in message 1006; left empty.
+Warning: Signals[435]: unknown ByteOrder '@1+' for signal 'UI_blindspotTTC' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[435]: invalid Factor '[0|0]' for 'UI_blindspotTTC' in message 1006; default 1.0 used.
+Warning: Signals[435]: invalid Minimum 'APP , APS' for 'UI_blindspotTTC' in message 1006; left empty.
+Warning: Signals[436]: unknown ByteOrder '@1+' for signal 'UI_donStopEndOfRampBuffer' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[436]: invalid Factor '[0|0]' for 'UI_donStopEndOfRampBuffer' in message 1006; default 1.0 used.
+Warning: Signals[436]: invalid Minimum 'APP , APS' for 'UI_donStopEndOfRampBuffer' in message 1006; left empty.
+Warning: Signals[437]: unknown ByteOrder '@1+' for signal 'UI_donDisableCutin' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[437]: invalid Factor '[0|0]' for 'UI_donDisableCutin' in message 1006; default 1.0 used.
+Warning: Signals[437]: invalid Minimum 'APP , APS' for 'UI_donDisableCutin' in message 1006; left empty.
+Warning: Signals[438]: unknown ByteOrder '@1+' for signal 'UI_donMinGoreWidthForAbortMap' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[438]: invalid Factor '[0|0]' for 'UI_donMinGoreWidthForAbortMap' in message 1006; default 1.0 used.
+Warning: Signals[438]: invalid Minimum 'APP , APS' for 'UI_donMinGoreWidthForAbortMap' in message 1006; left empty.
+Warning: Signals[439]: unknown ByteOrder '@1+' for signal 'UI_donAlcProgGoreAbortThres' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[439]: invalid Factor '[0|0]' for 'UI_donAlcProgGoreAbortThres' in message 1006; default 1.0 used.
+Warning: Signals[439]: invalid Minimum 'APP , APS' for 'UI_donAlcProgGoreAbortThres' in message 1006; left empty.
+Warning: Signals[440]: unknown ByteOrder '@1+' for signal 'UI_donMinGoreWidthForAbortNotMap' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[440]: invalid Factor '[0|0]' for 'UI_donMinGoreWidthForAbortNotMap' in message 1006; default 1.0 used.
+Warning: Signals[440]: invalid Minimum 'APP , APS' for 'UI_donMinGoreWidthForAbortNotMap' in message 1006; left empty.
+Warning: Signals[441]: unknown ByteOrder '@1+' for signal 'UI_alcDisableUltrasonicCheck' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[441]: invalid Factor '[0|0]' for 'UI_alcDisableUltrasonicCheck' in message 1006; default 1.0 used.
+Warning: Signals[441]: invalid Minimum 'APP , APS' for 'UI_alcDisableUltrasonicCheck' in message 1006; left empty.
+Warning: Signals[442]: unknown ByteOrder '@1+' for signal 'UI_alcUltrasonicDistance' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[442]: invalid Factor '[0|0]' for 'UI_alcUltrasonicDistance' in message 1006; default 1.0 used.
+Warning: Signals[442]: invalid Minimum 'APP , APS' for 'UI_alcUltrasonicDistance' in message 1006; left empty.
+Warning: Signals[443]: unknown ByteOrder '@1+' for signal 'UI_alcUltrasonicWaitTime' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[443]: invalid Factor '[0|0]' for 'UI_alcUltrasonicWaitTime' in message 1006; default 1.0 used.
+Warning: Signals[443]: invalid Minimum 'APP , APS' for 'UI_alcUltrasonicWaitTime' in message 1006; left empty.
+Warning: Signals[444]: unknown ByteOrder '@1+' for signal 'UI_alcEgoLeadingReactionAccel' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[444]: invalid Factor '[0|0]' for 'UI_alcEgoLeadingReactionAccel' in message 1006; default 1.0 used.
+Warning: Signals[444]: invalid Minimum 'APP , APS' for 'UI_alcEgoLeadingReactionAccel' in message 1006; left empty.
+Warning: Signals[445]: unknown ByteOrder '@1+' for signal 'UI_alcMergIntervalRearDHyst' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[445]: invalid Factor '[0|0]' for 'UI_alcMergIntervalRearDHyst' in message 1006; default 1.0 used.
+Warning: Signals[445]: invalid Minimum 'APP , APS' for 'UI_alcMergIntervalRearDHyst' in message 1006; left empty.
+Warning: Signals[446]: unknown ByteOrder '@1+' for signal 'UI_alcMergingIntervalHeadwayHyst' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[446]: invalid Factor '[0|0]' for 'UI_alcMergingIntervalHeadwayHyst' in message 1006; default 1.0 used.
+Warning: Signals[446]: invalid Minimum 'APP , APS' for 'UI_alcMergingIntervalHeadwayHyst' in message 1006; left empty.
+Warning: Signals[447]: unknown ByteOrder '@1+' for signal 'UI_alcAssertivenessRate' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[447]: invalid Factor '[0|0]' for 'UI_alcAssertivenessRate' in message 1006; default 1.0 used.
+Warning: Signals[447]: invalid Minimum 'APP , APS' for 'UI_alcAssertivenessRate' in message 1006; left empty.
+Warning: Signals[448]: unknown ByteOrder '@1+' for signal 'UI_alcViewRangeSensitivity' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[448]: invalid Factor '[0|0]' for 'UI_alcViewRangeSensitivity' in message 1006; default 1.0 used.
+Warning: Signals[448]: invalid Minimum 'APP , APS' for 'UI_alcViewRangeSensitivity' in message 1006; left empty.
+Warning: Signals[449]: unknown ByteOrder '@1+' for signal 'UI_camBlockLaneCheckDisable' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[449]: invalid Factor '[0|0]' for 'UI_camBlockLaneCheckDisable' in message 1006; default 1.0 used.
+Warning: Signals[449]: invalid Minimum 'APP , APS' for 'UI_camBlockLaneCheckDisable' in message 1006; left empty.
+Warning: Signals[450]: unknown ByteOrder '@1+' for signal 'UI_camBlockLaneCheckThreshold' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[450]: invalid Factor '[0|1]' for 'UI_camBlockLaneCheckThreshold' in message 1006; default 1.0 used.
+Warning: Signals[450]: invalid Offset '%' for 'UI_camBlockLaneCheckThreshold' in message 1006; default 0.0 used.
+Warning: Signals[450]: invalid Minimum 'APP , APS' for 'UI_camBlockLaneCheckThreshold' in message 1006; left empty.
+Warning: Signals[451]: unknown ByteOrder '@1+' for signal 'UI_camBlockBlurDisable' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[451]: invalid Factor '[0|0]' for 'UI_camBlockBlurDisable' in message 1006; default 1.0 used.
+Warning: Signals[451]: invalid Minimum 'APP , APS' for 'UI_camBlockBlurDisable' in message 1006; left empty.
+Warning: Signals[452]: unknown ByteOrder '@1+' for signal 'UI_camBlockBlurThreshold' in message 1006; defaulting to 1 (Intel).
+Warning: Signals[452]: invalid Factor '[0|1]' for 'UI_camBlockBlurThreshold' in message 1006; default 1.0 used.
+Warning: Signals[452]: invalid Offset '%' for 'UI_camBlockBlurThreshold' in message 1006; default 0.0 used.
+Warning: Signals[452]: invalid Minimum 'APP , APS' for 'UI_camBlockBlurThreshold' in message 1006; left empty.
+Warning: Signals[453]: unknown ByteOrder '@1+' for signal 'UI_TCR_enable' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[453]: invalid Factor '[0|0]' for 'UI_TCR_enable' in message 1064; default 1.0 used.
+Warning: Signals[453]: invalid Minimum 'DAS' for 'UI_TCR_enable' in message 1064; left empty.
+Warning: Signals[454]: unknown ByteOrder '@1+' for signal 'UI_TCR_moveStateStanding' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[454]: invalid Factor '[0|0]' for 'UI_TCR_moveStateStanding' in message 1064; default 1.0 used.
+Warning: Signals[454]: invalid Minimum 'DAS' for 'UI_TCR_moveStateStanding' in message 1064; left empty.
+Warning: Signals[455]: unknown ByteOrder '@1+' for signal 'UI_TCR_moveStateStopped' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[455]: invalid Factor '[0|0]' for 'UI_TCR_moveStateStopped' in message 1064; default 1.0 used.
+Warning: Signals[455]: invalid Minimum 'DAS' for 'UI_TCR_moveStateStopped' in message 1064; left empty.
+Warning: Signals[456]: unknown ByteOrder '@1+' for signal 'UI_TCR_moveStateMoving' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[456]: invalid Factor '[0|0]' for 'UI_TCR_moveStateMoving' in message 1064; default 1.0 used.
+Warning: Signals[456]: invalid Minimum 'DAS' for 'UI_TCR_moveStateMoving' in message 1064; left empty.
+Warning: Signals[457]: unknown ByteOrder '@1+' for signal 'UI_TCR_moveStateIndeterm' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[457]: invalid Factor '[0|0]' for 'UI_TCR_moveStateIndeterm' in message 1064; default 1.0 used.
+Warning: Signals[457]: invalid Minimum 'DAS' for 'UI_TCR_moveStateIndeterm' in message 1064; left empty.
+Warning: Signals[458]: unknown ByteOrder '@1+' for signal 'UI_TCR_classConstElem' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[458]: invalid Factor '[0|0]' for 'UI_TCR_classConstElem' in message 1064; default 1.0 used.
+Warning: Signals[458]: invalid Minimum 'DAS' for 'UI_TCR_classConstElem' in message 1064; left empty.
+Warning: Signals[459]: unknown ByteOrder '@1+' for signal 'UI_TCR_classMovingPed' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[459]: invalid Factor '[0|0]' for 'UI_TCR_classMovingPed' in message 1064; default 1.0 used.
+Warning: Signals[459]: invalid Minimum 'DAS' for 'UI_TCR_classMovingPed' in message 1064; left empty.
+Warning: Signals[460]: unknown ByteOrder '@1+' for signal 'UI_TCR_classMovingTwoWheel' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[460]: invalid Factor '[0|0]' for 'UI_TCR_classMovingTwoWheel' in message 1064; default 1.0 used.
+Warning: Signals[460]: invalid Minimum 'DAS' for 'UI_TCR_classMovingTwoWheel' in message 1064; left empty.
+Warning: Signals[461]: unknown ByteOrder '@1+' for signal 'UI_TCR_classMovingFourWheel' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[461]: invalid Factor '[0|0]' for 'UI_TCR_classMovingFourWheel' in message 1064; default 1.0 used.
+Warning: Signals[461]: invalid Minimum 'DAS' for 'UI_TCR_classMovingFourWheel' in message 1064; left empty.
+Warning: Signals[462]: unknown ByteOrder '@1+' for signal 'UI_TCR_classUnknown' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[462]: invalid Factor '[0|0]' for 'UI_TCR_classUnknown' in message 1064; default 1.0 used.
+Warning: Signals[462]: invalid Minimum 'DAS' for 'UI_TCR_classUnknown' in message 1064; left empty.
+Warning: Signals[463]: unknown ByteOrder '@1+' for signal 'UI_TCR_downSampleFactor' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[463]: invalid Factor '[0|15]' for 'UI_TCR_downSampleFactor' in message 1064; default 1.0 used.
+Warning: Signals[463]: invalid Minimum 'Vector__XXX' for 'UI_TCR_downSampleFactor' in message 1064; left empty.
+Warning: Signals[464]: unknown ByteOrder '@1+' for signal 'UI_TCR_wExist' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[464]: invalid Factor '[0|31]' for 'UI_TCR_wExist' in message 1064; default 1.0 used.
+Warning: Signals[464]: invalid Minimum 'Vector__XXX' for 'UI_TCR_wExist' in message 1064; left empty.
+Warning: Signals[465]: unknown ByteOrder '@1+' for signal 'UI_TCR_vehSpeed' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[465]: invalid Factor '[0|0]' for 'UI_TCR_vehSpeed' in message 1064; default 1.0 used.
+Warning: Signals[465]: invalid Minimum 'Vector__XXX' for 'UI_TCR_vehSpeed' in message 1064; left empty.
+Warning: Signals[466]: unknown ByteOrder '@1+' for signal 'UI_TCR_minRCS' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[466]: invalid Factor '[-14|49.75]' for 'UI_TCR_minRCS' in message 1064; default 1.0 used.
+Warning: Signals[466]: invalid Offset 'dB' for 'UI_TCR_minRCS' in message 1064; default 0.0 used.
+Warning: Signals[466]: invalid Minimum 'Vector__XXX' for 'UI_TCR_minRCS' in message 1064; left empty.
+Warning: Signals[467]: unknown ByteOrder '@1+' for signal 'UI_TCR_maxDy' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[467]: invalid Factor '[0|15.5]' for 'UI_TCR_maxDy' in message 1064; default 1.0 used.
+Warning: Signals[467]: invalid Offset 'm' for 'UI_TCR_maxDy' in message 1064; default 0.0 used.
+Warning: Signals[467]: invalid Minimum 'Vector__XXX' for 'UI_TCR_maxDy' in message 1064; left empty.
+Warning: Signals[468]: unknown ByteOrder '@1+' for signal 'UI_TCR_maxObjects' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[468]: invalid Factor '[0|31]' for 'UI_TCR_maxObjects' in message 1064; default 1.0 used.
+Warning: Signals[468]: invalid Minimum 'Vector__XXX' for 'UI_TCR_maxObjects' in message 1064; left empty.
+Warning: Signals[469]: unknown ByteOrder '@1+' for signal 'UI_TCR_maxRoadClass' in message 1064; defaulting to 1 (Intel).
+Warning: Signals[469]: invalid Factor '[0|7]' for 'UI_TCR_maxRoadClass' in message 1064; default 1.0 used.
+Warning: Signals[469]: invalid Minimum 'Vector__XXX' for 'UI_TCR_maxRoadClass' in message 1064; left empty.
+Warning: Signals[470]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam1' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[470]: invalid Factor '[0|100]' for 'UI_anonDebugParam1' in message 1080; default 1.0 used.
+Warning: Signals[470]: invalid Minimum 'DAS' for 'UI_anonDebugParam1' in message 1080; left empty.
+Warning: Signals[471]: unknown ByteOrder '@1+' for signal 'UI_anonDebugFlag1' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[471]: invalid Factor '[0|0]' for 'UI_anonDebugFlag1' in message 1080; default 1.0 used.
+Warning: Signals[471]: invalid Minimum 'DAS' for 'UI_anonDebugFlag1' in message 1080; left empty.
+Warning: Signals[472]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam2' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[472]: invalid Factor '[0|100]' for 'UI_anonDebugParam2' in message 1080; default 1.0 used.
+Warning: Signals[472]: invalid Minimum 'DAS' for 'UI_anonDebugParam2' in message 1080; left empty.
+Warning: Signals[473]: unknown ByteOrder '@1+' for signal 'UI_anonDebugFlag2' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[473]: invalid Factor '[0|0]' for 'UI_anonDebugFlag2' in message 1080; default 1.0 used.
+Warning: Signals[473]: invalid Minimum 'DAS' for 'UI_anonDebugFlag2' in message 1080; left empty.
+Warning: Signals[474]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam3' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[474]: invalid Factor '[0|100]' for 'UI_anonDebugParam3' in message 1080; default 1.0 used.
+Warning: Signals[474]: invalid Minimum 'DAS' for 'UI_anonDebugParam3' in message 1080; left empty.
+Warning: Signals[475]: unknown ByteOrder '@1+' for signal 'UI_anonDebugFlag3' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[475]: invalid Factor '[0|0]' for 'UI_anonDebugFlag3' in message 1080; default 1.0 used.
+Warning: Signals[475]: invalid Minimum 'DAS' for 'UI_anonDebugFlag3' in message 1080; left empty.
+Warning: Signals[476]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam4' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[476]: invalid Factor '[0|100]' for 'UI_anonDebugParam4' in message 1080; default 1.0 used.
+Warning: Signals[476]: invalid Minimum 'DAS' for 'UI_anonDebugParam4' in message 1080; left empty.
+Warning: Signals[477]: unknown ByteOrder '@1+' for signal 'UI_anonDebugFlag4' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[477]: invalid Factor '[0|0]' for 'UI_anonDebugFlag4' in message 1080; default 1.0 used.
+Warning: Signals[477]: invalid Minimum 'DAS' for 'UI_anonDebugFlag4' in message 1080; left empty.
+Warning: Signals[478]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam5' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[478]: invalid Factor '[0|100]' for 'UI_anonDebugParam5' in message 1080; default 1.0 used.
+Warning: Signals[478]: invalid Minimum 'DAS' for 'UI_anonDebugParam5' in message 1080; left empty.
+Warning: Signals[479]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam6' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[479]: invalid Factor '[0|100]' for 'UI_anonDebugParam6' in message 1080; default 1.0 used.
+Warning: Signals[479]: invalid Minimum 'DAS' for 'UI_anonDebugParam6' in message 1080; left empty.
+Warning: Signals[480]: unknown ByteOrder '@1+' for signal 'UI_anonDebugParam7' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[480]: invalid Factor '[0|100]' for 'UI_anonDebugParam7' in message 1080; default 1.0 used.
+Warning: Signals[480]: invalid Minimum 'DAS' for 'UI_anonDebugParam7' in message 1080; left empty.
+Warning: Signals[481]: unknown ByteOrder '@1+' for signal 'UI_visionSpeedSlider' in message 1080; defaulting to 1 (Intel).
+Warning: Signals[481]: invalid Factor '[0|100]' for 'UI_visionSpeedSlider' in message 1080; default 1.0 used.
+Warning: Signals[481]: invalid Minimum 'DAS' for 'UI_visionSpeedSlider' in message 1080; left empty.
+Warning: Signals[482]: unknown ByteOrder '@0+' for signal 'DAS_steeringControlType' in message 1160; defaulting to 1 (Intel).
+Warning: Signals[482]: invalid Factor '[0|0]' for 'DAS_steeringControlType' in message 1160; default 1.0 used.
+Warning: Signals[482]: invalid Minimum 'EPAS' for 'DAS_steeringControlType' in message 1160; left empty.
+Warning: Signals[483]: unknown ByteOrder '@0+' for signal 'DAS_steeringControlChecksum' in message 1160; defaulting to 1 (Intel).
+Warning: Signals[483]: invalid Factor '[0|0]' for 'DAS_steeringControlChecksum' in message 1160; default 1.0 used.
+Warning: Signals[483]: invalid Minimum 'EPAS' for 'DAS_steeringControlChecksum' in message 1160; left empty.
+Warning: Signals[484]: unknown ByteOrder '@0+' for signal 'DAS_steeringControlCounter' in message 1160; defaulting to 1 (Intel).
+Warning: Signals[484]: invalid Factor '[0|0]' for 'DAS_steeringControlCounter' in message 1160; default 1.0 used.
+Warning: Signals[484]: invalid Minimum 'EPAS' for 'DAS_steeringControlCounter' in message 1160; left empty.
+Warning: Signals[485]: unknown ByteOrder '@0+' for signal 'DAS_steeringAngleRequest' in message 1160; defaulting to 1 (Intel).
+Warning: Signals[485]: invalid Factor '[-1638.35|1638.35]' for 'DAS_steeringAngleRequest' in message 1160; default 1.0 used.
+Warning: Signals[485]: invalid Offset 'deg' for 'DAS_steeringAngleRequest' in message 1160; default 0.0 used.
+Warning: Signals[485]: invalid Minimum 'EPAS' for 'DAS_steeringAngleRequest' in message 1160; left empty.
+Warning: Signals[486]: unknown ByteOrder '@0+' for signal 'DAS_steeringHapticRequest' in message 1160; defaulting to 1 (Intel).
+Warning: Signals[486]: invalid Factor '[0|0]' for 'DAS_steeringHapticRequest' in message 1160; default 1.0 used.
+Warning: Signals[486]: invalid Minimum 'EPAS' for 'DAS_steeringHapticRequest' in message 1160; left empty.
+
+C:\Users\HP\source\repos\DBC_Writer\DBC_Writer\bin\Debug\net8.0\DBC_Writer.exe (process 13420) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
